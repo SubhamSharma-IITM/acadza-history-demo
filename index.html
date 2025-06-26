@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Acadza • NCERT Class-9 History Demo</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            acadza: {
+              light: '#ffb347',
+              DEFAULT: '#ff8008',
+            },
+          },
+        },
+      },
+    }
+  </script>
+  <style>
+    /* Remove default disclosure markers */
+    summary::-webkit-details-marker{display:none;}
+    summary::marker{content:"";}
+    /* Chapter / Concept arrows (↳ before) */
+    summary::before{
+      content:"\21B3"; /* ↳ */
+      display:inline-block;
+      margin-right:6px;
+    }
+    /* Sub‑concept leaf: black right‑pointing triangle BEFORE label */
+    .leaf::before{
+      content:"\25B6"; /* ▶ */
+      display:inline-block;
+      margin-right:6px;
+    }
+  </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+  <header class="fixed top-0 inset-x-0 z-20 bg-white shadow-md">
+    <div class="flex items-center px-4 py-3">
+      <img src="acadzalogolarge.svg" alt="Acadza" class="h-10" />
+    </div>
+    <div class="h-1 w-full bg-gradient-to-r from-acadza-light to-acadza"></div>
+  </header>
+
+  <div id="root" class="pt-[4rem]"></div>
+
+  <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel" data-presets="env,react">
+    const { useState, useEffect } = React;
+
+    const load = name => fetch(name).then(r=>r.json());
+
+    const resolveImageSrc = (key)=>{
+      // Try png first, could be jpg/jpeg/svg – user can rename as needed
+      return `${key}.png`;
+    };
+
+    const Visual = ({visual})=>{
+      if(!visual || visual.Needed!==true) return null;
+      return (
+        <>
+          {Object.entries(visual.Content||{}).map(([id,desc])=>(
+            <figure key={id} className="my-4">
+               <img
+   src={resolveImageSrc(id)}
+   alt={id}
+   title={id}
+   className="border rounded-lg mx-auto max-w-md w-auto"
+   style={{ maxHeight: "250px" }}  /* optional cap on height */
+ />
+              <figcaption className="text-xs text-center text-gray-600 mt-1 whitespace-pre-line">{desc}</figcaption>
+            </figure>
+          ))}
+        </>
+      );
+    };
+
+    const ContentPane = ({data})=>{
+      if(!data) return <p className="text-gray-500">⬅️ Select a sub-concept from the left panel.</p>;
+      const { Summary={}, SCQs={}, SubjectiveTypes={}, Examples={} } = data;
+      return (
+        <div className="space-y-6">
+          <div>
+            <h1 className="text-2xl font-bold text-acadza inline-block mr-2">{data.title}</h1>
+            <span className="block border-b border-gray-500/60 mt-1"></span>
+          </div>
+
+          {Summary.Theory && (
+            <section>
+              <h2 className="text-xl font-semibold mb-2">Theory</h2>
+              <p className="whitespace-pre-line">{Summary.Theory}</p>
+              <Visual visual={Summary.VisualContent}/>
+            </section>
+          )}
+
+          {Object.keys(SCQs).length>0 && (
+            <section>
+              <h2 className="text-xl font-semibold mb-2">Single-Choice Questions</h2>
+              {Object.values(SCQs).map((q,i)=>(
+                <details key={i} className="p-4 border rounded-lg mb-3">
+                  <summary className="cursor-pointer font-medium mb-2">{i+1}. {q.Question}</summary>
+                  <Visual visual={q.VisualContent}/>
+                  <ul className="list-disc ml-6 mt-2 space-y-1">
+                    {Object.entries(q.Options||{}).map(([k,v])=><li key={k}>{k}. {v}</li>)}
+                  </ul>
+                  <p className="text-sm mt-2">Answer: <strong>{q["Correct Option"]}</strong> — {q.Solution}</p>
+                </details>
+              ))}
+            </section>
+          )}
+
+          {Object.keys(SubjectiveTypes).length>0 && (
+            <section>
+              <h2 className="text-xl font-semibold mb-2">Subjective Questions</h2>
+              {Object.values(SubjectiveTypes).map((q,i)=>(
+                <details key={i} className="p-4 border rounded-lg mb-3">
+                  <summary className="cursor-pointer font-medium mb-2">{i+1}. {q.Question}</summary>
+                  <Visual visual={q.VisualContent}/>
+                  <p className="text-sm mt-2 whitespace-pre-line">{q.Solution}</p>
+                </details>
+              ))}
+            </section>
+          )}
+
+          {Object.keys(Examples).length>0 && (
+            <section>
+              <h2 className="text-xl font-semibold mb-2">Examples</h2>
+              {Object.values(Examples).map((ex,i)=>(
+                <div key={i} className="p-4 border rounded-lg mb-3">
+                  <p className="font-medium mb-2">{i+1}. {ex.Question}</p>
+                  <Visual visual={ex.VisualContent}/>
+                  <p className="text-sm whitespace-pre-line">{ex.Solution}</p>
+                </div>
+              ))}
+            </section>
+          )}
+        </div>
+      );
+    };
+
+    const TreeUI = ({data,onPick,active})=>{
+      if(Array.isArray(data)) return (
+        <ul className="ml-4 list-none space-y-1">
+          {data.map(n=>(
+            <li key={n} onClick={()=>onPick(n)}
+                className={`cursor-pointer py-0.5 flex items-start leaf ${active===n?'text-blue-600 font-semibold':'hover:text-blue-500'}`}>{n}</li>
+          ))}
+        </ul>
+      );
+      return (
+        <ul className="ml-2 space-y-1">
+          {Object.entries(data).map(([k,v])=>(
+            <li key={k}>
+              <details>
+                <summary className="font-semibold cursor-pointer hover:text-blue-500">{k}</summary>
+                <TreeUI data={v} onPick={onPick} active={active}/>
+              </details>
+            </li>
+          ))}
+        </ul>
+      );
+    };
+
+    function App(){
+      const [topo,setTopo]=useState(null);
+      const [full,setFull]=useState(null);
+      const [sel,setSel]=useState(null);
+
+      useEffect(()=>{
+        load('class9_history_chapter_1_topology.json').then(setTopo);
+        load('french_society_schema.json').then(setFull);
+      },[]);
+
+      const pick = name=>{
+        for(const ck of Object.keys(full||{})){
+          const concept=full[ck];
+          const mk=Object.keys(concept).find(k=>k.toLowerCase().includes(name.toLowerCase()));
+          if(mk){setSel({...concept[mk],title:mk.replace('Subconcept: ','')});return;}
+        }
+        alert('No content for '+name);
+      };
+
+      if(!topo||!full) return <p className="m-auto text-gray-500">Loading…</p>;
+
+      return (
+        <main className="flex h-[calc(100vh-4rem)]">
+          <aside className="w-80 lg:w-96 bg-white shadow-inner overflow-y-auto p-4">
+            <h2 className="text-lg font-bold mb-4">Index</h2>
+            {Object.entries(topo).map(([chap,tree])=>(
+              <details key={chap} className="mb-2">
+                <summary className="cursor-pointer font-bold text-acadza mb-1 hover:underline">{chap}</summary>
+                <TreeUI data={tree} onPick={pick} active={sel?.title}/>
+              </details>
+            ))}
+          </aside>
+
+          <section className="flex-1 overflow-y-auto p-6 bg-gray-50">
+            <ContentPane data={sel}/>
+          </section>
+        </main>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>

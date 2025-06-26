@@ -1,0 +1,4940 @@
+{
+  "Concept: French Society During the Late Eighteenth Century": {
+    "Subconcept: Structure of French Society: The Three Estates": {
+      "Summary": {
+        "Theory": "In eighteenth-century France, society was divided into three distinct estates. The First Estate consisted of the clergy, the Second Estate comprised the nobility, and the Third Estate included everyone else—peasants, artisans, small peasants, landless labour, servants, and the bourgeoisie (middle class). The First and Second Estates enjoyed privileges such as exemption from taxes, while the Third Estate bore the burden of taxation and had little political power.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.1.1": "Diagram showing the three estates as a pyramid, with the clergy at the top, nobility in the middle, and the Third Estate forming the base. Source: NCERT Reference, Fig. 1, 'The Three Estates'."
+          }
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which group formed the majority of the French population in the eighteenth century?",
+          "Options": {
+            "A": "First Estate",
+            "B": "Second Estate",
+            "C": "Third Estate",
+            "D": "Royal Family"
+          },
+          "Correct Option": "C",
+          "Solution": "The Third Estate, which included peasants, artisans, and the bourgeoisie, formed the majority of the population.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which estate was exempt from paying taxes to the state?",
+          "Options": {
+            "A": "First Estate",
+            "B": "Second Estate",
+            "C": "Both A and B",
+            "D": "Third Estate"
+          },
+          "Correct Option": "C",
+          "Solution": "Both the First Estate (clergy) and Second Estate (nobility) were exempt from paying taxes.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did the Third Estate resent the privileges enjoyed by the First and Second Estates?",
+          "Options": {
+            "A": "They had to pay all the taxes",
+            "B": "They had no political power",
+            "C": "They performed all the work",
+            "D": "All of the above"
+          },
+          "Correct Option": "D",
+          "Solution": "The Third Estate resented the privileges because they paid all the taxes, had no political power, and did most of the work.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main occupation of the majority of the Third Estate?",
+          "Options": {
+            "A": "Nobility",
+            "B": "Clergy",
+            "C": "Peasants",
+            "D": "Merchants"
+          },
+          "Correct Option": "C",
+          "Solution": "Most of the Third Estate were peasants who worked on the land.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Describe the composition of the three estates in French society before the Revolution. How did their privileges and burdens differ?",
+          "Solution": "The First Estate was made up of the clergy, who owned land and collected tithes but paid no taxes. The Second Estate was the nobility, who also owned land, enjoyed feudal privileges, and were exempt from taxes. The Third Estate included peasants, artisans, and the bourgeoisie, who paid taxes and had no special privileges. The Third Estate bore the burden of supporting the state financially and had little political influence.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "With the help of a diagram, explain the structure of French society in the eighteenth century.",
+          "Solution": "French society was structured as a pyramid: the clergy (First Estate) at the top, followed by the nobility (Second Estate), and the Third Estate forming the broad base. The Third Estate included the majority of the population but had the least privileges.",
+          "VisualContent": {
+            "Needed": true,
+            "Content": {
+              "SUB_1.1.1": "Diagram as described: Pyramid with clergy at the top, nobility in the middle, and Third Estate at the base."
+            }
+          }
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why was the Third Estate dissatisfied with the existing social structure?",
+          "Solution": "The Third Estate was dissatisfied because they paid all the taxes, had no political power, and were subject to feudal dues and obligations, while the privileged estates enjoyed exemptions and special rights.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Describe a privilege of the First Estate.",
+          "Solution": "The clergy (First Estate) owned about 10% of the land and collected tithes from peasants.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Describe a privilege of the Second Estate.",
+          "Solution": "The nobility (Second Estate) enjoyed feudal privileges and did not pay taxes.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Example 3": {
+          "isSolvedExample": false,
+          "Question": "Describe a burden of the Third Estate.",
+          "Solution": "The Third Estate, including peasants and the bourgeoisie, paid taxes to the state and feudal dues to the lords.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      }
+    },
+    "Subconcept: Privileges Enjoyed by the First and Second Estates": {
+      "Summary": {
+        "Theory": "The First Estate (clergy) and Second Estate (nobility) enjoyed numerous privileges. They were exempt from paying taxes to the state and had access to high offices and positions. The clergy collected tithes from the Third Estate, and the nobility collected feudal dues. These privileges created deep social divisions and resentment among the Third Estate.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.1.2": "Illustration of a nobleman and a clergyman collecting dues from peasants. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which estate collected tithes from the peasants?",
+          "Options": {
+            "A": "First Estate",
+            "B": "Second Estate",
+            "C": "Third Estate",
+            "D": "None"
+          },
+          "Correct Option": "A",
+          "Solution": "The First Estate (clergy) collected tithes from the peasants.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the taille?",
+          "Options": {
+            "A": "A tax paid by the clergy",
+            "B": "A tax paid by the nobility",
+            "C": "A direct tax paid by the Third Estate",
+            "D": "A tax on imported goods"
+          },
+          "Correct Option": "C",
+          "Solution": "The taille was a direct tax paid by the Third Estate.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the privileges of the First and Second Estates contribute to the outbreak of the French Revolution?",
+          "Options": {
+            "A": "They increased the wealth of the Third Estate",
+            "B": "They reduced the power of the king",
+            "C": "They created resentment and demands for equality",
+            "D": "They improved the lives of peasants"
+          },
+          "Correct Option": "C",
+          "Solution": "The privileges led to resentment among the Third Estate, contributing to revolutionary demands for equality.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which estate was allowed to hold high offices in the government?",
+          "Options": {
+            "A": "First Estate",
+            "B": "Second Estate",
+            "C": "Both A and B",
+            "D": "Third Estate"
+          },
+          "Correct Option": "C",
+          "Solution": "Both the First and Second Estates had access to high offices.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Explain the privileges enjoyed by the First and Second Estates in pre-revolutionary France.",
+          "Solution": "The First Estate (clergy) and Second Estate (nobility) were exempt from taxes, collected dues from the Third Estate, and had access to high offices. These privileges created social divisions and resentment among the Third Estate.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the system of privileges affect the relationship between the estates?",
+          "Solution": "The system of privileges led to inequality and resentment, as the Third Estate bore the financial burden while the privileged estates enjoyed exemptions and special rights.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Describe with examples how the privileged estates maintained their status in society.",
+          "Solution": "The privileged estates maintained their status by collecting dues, holding exclusive rights, and being exempt from taxes. For example, the clergy collected tithes, and the nobility held feudal rights.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What was a key privilege of the First Estate?",
+          "Solution": "The clergy collected tithes from peasants.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What was a key privilege of the Second Estate?",
+          "Solution": "The nobility held exclusive rights to hunt and wear certain clothes.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Example 3": {
+          "isSolvedExample": false,
+          "Question": "What was a common privilege shared by both the First and Second Estates?",
+          "Solution": "Both estates were exempt from paying taille (a direct tax).",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      }
+    },
+    "Subconcept: The Burden on the Third Estate": {
+      "Summary": {
+        "Theory": "The Third Estate, which included peasants, artisans, and the bourgeoisie, bore the burden of taxation. They paid taxes to the state (taille), feudal dues to the lords, and tithes to the church. Many peasants struggled to survive due to high taxes and rising food prices.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.1.3": "Illustration of peasants working in the fields and paying taxes. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Who paid the majority of taxes in pre-revolutionary France?",
+          "Options": {
+            "A": "First Estate",
+            "B": "Second Estate",
+            "C": "Third Estate",
+            "D": "The King"
+          },
+          "Correct Option": "C",
+          "Solution": "The Third Estate paid the majority of taxes.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main financial burden on the Third Estate?",
+          "Options": {
+            "A": "Paying tithes",
+            "B": "Paying feudal dues",
+            "C": "Paying state taxes",
+            "D": "All of the above"
+          },
+          "Correct Option": "D",
+          "Solution": "The Third Estate paid tithes, feudal dues, and state taxes.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the tax burden affect the daily lives of peasants?",
+          "Options": {
+            "A": "It improved their standard of living",
+            "B": "It led to hardship and poverty",
+            "C": "It allowed them to buy more land",
+            "D": "It reduced food prices"
+          },
+          "Correct Option": "B",
+          "Solution": "The heavy tax burden led to hardship and poverty among peasants.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which group within the Third Estate was most affected by rising bread prices?",
+          "Options": {
+            "A": "Nobility",
+            "B": "Clergy",
+            "C": "Peasants and artisans",
+            "D": "The King"
+          },
+          "Correct Option": "C",
+          "Solution": "Peasants and artisans were most affected by rising bread prices.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Discuss the various taxes and dues paid by the Third Estate. How did these affect their standard of living?",
+          "Solution": "The Third Estate paid state taxes (taille), feudal dues to lords, and tithes to the church. These financial burdens left them with little to survive on, leading to widespread poverty and hardship.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Explain with examples how the burden of taxation contributed to revolutionary sentiments among the Third Estate.",
+          "Solution": "The heavy tax burden, combined with rising food prices and lack of privileges, led to resentment and demands for change, fueling revolutionary sentiments.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Describe the economic condition of the Third Estate before the Revolution.",
+          "Solution": "The Third Estate faced economic hardship due to high taxes, low wages, and rising food prices, making survival difficult for peasants and artisans.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What taxes did peasants pay?",
+          "Solution": "Peasants paid both state taxes and feudal dues.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What economic challenge did artisans and small peasants face?",
+          "Solution": "Artisans and small peasants struggled with rising bread prices.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Example 3": {
+          "isSolvedExample": false,
+          "Question": "Did the bourgeoisie face taxation despite their wealth?",
+          "Solution": "The bourgeoisie paid taxes despite being educated and wealthy.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      }
+    },
+    "Subconcept: The Struggle to Survive: Economic Crisis and Food Scarcity": {
+      "Summary": {
+        "Theory": "In the years leading up to the Revolution, France faced severe economic crisis and food scarcity. Poor harvests led to rising bread prices, and many people could not afford basic necessities. The economic crisis was worsened by the state's debt and the cost of maintaining the monarchy and army.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.1.4": "Illustration of people waiting in line for bread. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the staple food of the French population in the eighteenth century?",
+          "Options": {
+            "A": "Rice",
+            "B": "Bread",
+            "C": "Meat",
+            "D": "Potatoes"
+          },
+          "Correct Option": "B",
+          "Solution": "Bread was the staple food.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What happened to bread prices during poor harvests?",
+          "Options": {
+            "A": "They fell",
+            "B": "They remained the same",
+            "C": "They rose",
+            "D": "They were fixed by the king",
+            "Correct Option": "C",
+            "Solution": "Bread prices rose during poor harvests."
+          },
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the economic crisis contribute to the outbreak of the French Revolution?",
+          "Options": {
+            "A": "It improved the lives of peasants",
+            "B": "It led to widespread hardship and unrest",
+            "C": "It reduced the power of the king",
+            "D": "It increased the wealth of the Third Estate"
+          },
+          "Correct Option": "B",
+          "Solution": "The economic crisis led to hardship and unrest, contributing to revolutionary sentiments.",
+          "VisualContent": {
+            "Needed": false
+          }
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the impact of rising bread prices on urban workers?",
+          "Options": {
+            "A": "They could buy more bread",
+            "B": "They spent most of their wages on bread",
+            "C": "They ate more meat",
+            "D": "They paid less in taxes"
+          },
+          "Correct Option": "B",
+          "Solution": "Urban workers spent most of their wages on bread.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Explain the economic crisis faced by France before the Revolution. How did it affect different sections of society?",
+          "Solution": "France faced a severe economic crisis due to poor harvests, rising bread prices, and state debt. The Third Estate, especially peasants and urban workers, suffered the most, leading to widespread hardship and unrest.",
+          "VisualContent": {
+            "Needed": false
+          }
+        }
+      }
+    }
+  },
+  "Concept: The Outbreak of the Revolution": {
+    "Subconcept: Meeting of the Estates General": {
+      "Summary": {
+        "Theory": "The Estates General was convened by Louis XVI on 5 May 1789 to address the financial crisis. It included representatives from all three estates, but voting was conducted by estate, not by head, giving the First and Second Estates more power. The Third Estate demanded voting by head, which was denied, leading to their protest and the formation of the National Assembly.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.2.1": "Image 1.2.1.1: Illustration of the Estates General meeting in 1789, showing the three estates seated separately, with the king presiding. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What was the main demand of the Third Estate at the Estates General?",
+          "Solution": "The Third Estate demanded that voting should be conducted by head, so that each representative had one vote, rather than by estate."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Why did Louis XVI call the Estates General in 1789?",
+          "Solution": "Louis XVI called the Estates General to address the financial crisis and propose new taxes."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "When was the Estates General convened by Louis XVI?",
+          "Options": {
+            "A": "14 July 1789",
+            "B": "5 May 1789",
+            "C": "4 August 1789",
+            "D": "26 August 1789"
+          },
+          "Correct Option": "B",
+          "Solution": "The Estates General was convened on 5 May 1789."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which estate had the largest number of representatives in the Estates General?",
+          "Options": {
+            "A": "First Estate",
+            "B": "Second Estate",
+            "C": "Third Estate",
+            "D": "Royal Family"
+          },
+          "Correct Option": "C",
+          "Solution": "The Third Estate had the largest number of representatives."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "How was voting conducted in the Estates General?",
+          "Options": {
+            "A": "By head",
+            "B": "By estate",
+            "C": "By secret ballot",
+            "D": "By show of hands"
+          },
+          "Correct Option": "B",
+          "Solution": "Voting was conducted by estate, giving each estate one vote."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main grievance of the Third Estate at the Estates General?",
+          "Options": {
+            "A": "Lack of food",
+            "B": "Unfair voting system",
+            "C": "High taxes",
+            "D": "No representation"
+          },
+          "Correct Option": "B",
+          "Solution": "The main grievance was the unfair voting system."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did the Third Estate walk out of the Estates General?",
+          "Options": {
+            "A": "They were not allowed to speak",
+            "B": "Their demand for voting by head was denied",
+            "C": "They were taxed more",
+            "D": "They were arrested"
+          },
+          "Correct Option": "B",
+          "Solution": "They walked out because their demand for voting by head was denied."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who led the representatives of the Third Estate?",
+          "Options": {
+            "A": "Robespierre",
+            "B": "Mirabeau and Abbé Sieyès",
+            "C": "Louis XVI",
+            "D": "Napoleon"
+          },
+          "Correct Option": "B",
+          "Solution": "Mirabeau and Abbé Sieyès led the Third Estate."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the immediate outcome of the Third Estate's protest at the Estates General?",
+          "Options": {
+            "A": "Formation of the National Assembly",
+            "B": "Storming of the Bastille",
+            "C": "Execution of the king",
+            "D": "Abolition of feudalism"
+          },
+          "Correct Option": "A",
+          "Solution": "The immediate outcome was the formation of the National Assembly."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the purpose of calling the Estates General?",
+          "Options": {
+            "A": "To celebrate the king's birthday",
+            "B": "To address the financial crisis",
+            "C": "To declare war",
+            "D": "To abolish monarchy"
+          },
+          "Correct Option": "B",
+          "Solution": "The Estates General was called to address the financial crisis."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the Estates General?",
+          "Solution": "It was an assembly of representatives from all three estates called by the king."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who led the Third Estate at the Estates General?",
+          "Solution": "Mirabeau and Abbé Sieyès."
+        }
+      }
+    },
+    "Subconcept: Tennis Court Oath and Formation of the National Assembly": {
+      "Summary": {
+        "Theory": "After being locked out of the meeting hall, the Third Estate assembled in a nearby indoor tennis court on 20 June 1789. They took the Tennis Court Oath, vowing not to disperse until a constitution was established. This marked the formation of the National Assembly, representing the people of France.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.2.2": "Image 1.2.2.1: Illustration of the Tennis Court Oath, showing members of the Third Estate raising their hands in unity. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What was the Tennis Court Oath?",
+          "Solution": "It was a pledge by the Third Estate not to disperse until a constitution was framed."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Where did the Third Estate meet after being locked out?",
+          "Solution": "They met in an indoor tennis court."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "On what date did the Tennis Court Oath take place?",
+          "Options": {
+            "A": "14 July 1789",
+            "B": "20 June 1789",
+            "C": "4 August 1789",
+            "D": "5 May 1789"
+          },
+          "Correct Option": "B",
+          "Solution": "The Tennis Court Oath was taken on 20 June 1789."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the members of the Third Estate vow in the Tennis Court Oath?",
+          "Options": {
+            "A": "To abolish monarchy",
+            "B": "Not to disperse until a constitution was framed",
+            "C": "To storm the Bastille",
+            "D": "To pay more taxes"
+          },
+          "Correct Option": "B",
+          "Solution": "They vowed not to disperse until a constitution was framed."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the significance of the Tennis Court Oath?",
+          "Options": {
+            "A": "It marked the beginning of the monarchy",
+            "B": "It led to the formation of the National Assembly",
+            "C": "It ended the Revolution",
+            "D": "It increased taxes"
+          },
+          "Correct Option": "B",
+          "Solution": "It led to the formation of the National Assembly."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why did the Third Estate assemble in a tennis court?",
+          "Options": {
+            "A": "They wanted to play tennis",
+            "B": "They were locked out of the meeting hall",
+            "C": "It was a tradition",
+            "D": "The king ordered them"
+          },
+          "Correct Option": "B",
+          "Solution": "They were locked out of the meeting hall."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who was the leader of the National Assembly formed after the Tennis Court Oath?",
+          "Options": {
+            "A": "Louis XVI",
+            "B": "Robespierre",
+            "C": "Mirabeau",
+            "D": "Napoleon"
+          },
+          "Correct Option": "C",
+          "Solution": "Mirabeau was a prominent leader of the National Assembly."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the Tennis Court Oath symbolize?",
+          "Options": {
+            "A": "Unity and determination of the Third Estate",
+            "B": "Support for the king",
+            "C": "End of the Revolution",
+            "D": "Return to monarchy"
+          },
+          "Correct Option": "A",
+          "Solution": "It symbolized unity and determination of the Third Estate."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the immediate effect of the Tennis Court Oath?",
+          "Options": {
+            "A": "Storming of the Bastille",
+            "B": "Formation of the National Assembly",
+            "C": "Execution of the king",
+            "D": "Abolition of feudalism"
+          },
+          "Correct Option": "B",
+          "Solution": "The immediate effect was the formation of the National Assembly."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the main goal of the National Assembly?",
+          "Options": {
+            "A": "To frame a constitution",
+            "B": "To collect taxes",
+            "C": "To support the king",
+            "D": "To end the Revolution"
+          },
+          "Correct Option": "A",
+          "Solution": "The main goal was to frame a constitution."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the Tennis Court Oath?",
+          "Solution": "A pledge by the Third Estate to not disperse until a constitution was framed."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Where did the Third Estate meet after being locked out?",
+          "Solution": "In an indoor tennis court."
+        }
+      }
+    },
+    "Subconcept: Storming of the Bastille": {
+      "Summary": {
+        "Theory": "On 14 July 1789, the people of Paris stormed the Bastille, a fortress-prison that symbolized the king’s absolute power. The crowd was searching for arms and ammunition to defend themselves against royal troops. The fall of the Bastille marked the beginning of the French Revolution and is celebrated as France’s National Day.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.2.3": "Image 1.2.3.1: Illustration of the storming of the Bastille, showing a crowd attacking the fortress with smoke and chaos. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Why did the people of Paris attack the Bastille?",
+          "Solution": "They attacked the Bastille to seize arms and ammunition and to challenge the king’s authority."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What did the fall of the Bastille symbolize?",
+          "Solution": "It symbolized the end of the king’s absolute power and the beginning of the Revolution."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "On which date did the storming of the Bastille take place?",
+          "Options": {
+            "A": "5 May 1789",
+            "B": "14 July 1789",
+            "C": "4 August 1789",
+            "D": "26 August 1789"
+          },
+          "Correct Option": "B",
+          "Solution": "The Bastille was stormed on 14 July 1789."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the Bastille?",
+          "Options": {
+            "A": "A palace",
+            "B": "A fortress-prison",
+            "C": "A church",
+            "D": "A market"
+          },
+          "Correct Option": "B",
+          "Solution": "The Bastille was a fortress-prison in Paris."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why did the people of Paris storm the Bastille?",
+          "Options": {
+            "A": "To free prisoners",
+            "B": "To seize arms and ammunition",
+            "C": "To meet the king",
+            "D": "To celebrate a festival"
+          },
+          "Correct Option": "B",
+          "Solution": "They stormed the Bastille to seize arms and ammunition."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the fall of the Bastille signify?",
+          "Options": {
+            "A": "End of monarchy",
+            "B": "Beginning of the Revolution",
+            "C": "Victory of the king",
+            "D": "Start of war with Austria"
+          },
+          "Correct Option": "B",
+          "Solution": "It signified the beginning of the French Revolution."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How is 14 July celebrated in France today?",
+          "Options": {
+            "A": "As Bastille Day",
+            "B": "As Republic Day",
+            "C": "As Independence Day",
+            "D": "As King’s Day"
+          },
+          "Correct Option": "A",
+          "Solution": "14 July is celebrated as Bastille Day in France."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "How many prisoners were found in the Bastille when it was stormed?",
+          "Options": {
+            "A": "Seven",
+            "B": "Seventy",
+            "C": "None",
+            "D": "Hundreds"
+          },
+          "Correct Option": "A",
+          "Solution": "Only seven prisoners were found in the Bastille."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the destruction of the Bastille represent for the people?",
+          "Options": {
+            "A": "Destruction of a market",
+            "B": "End of feudalism",
+            "C": "End of arbitrary royal authority",
+            "D": "Start of a new monarchy"
+          },
+          "Correct Option": "C",
+          "Solution": "It represented the end of arbitrary royal authority."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the crowd do after capturing the Bastille?",
+          "Options": {
+            "A": "Freed the prisoners and demolished the building",
+            "B": "Set it on fire",
+            "C": "Turned it into a museum",
+            "D": "Left it untouched"
+          },
+          "Correct Option": "A",
+          "Solution": "They freed the prisoners and demolished the Bastille."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the Bastille symbolize?",
+          "Solution": "It symbolized the king’s absolute power."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why is 14 July important in French history?",
+          "Solution": "It marks the beginning of the French Revolution."
+        }
+      }
+    },
+    "Subconcept: Peasant Revolt in the Countryside": {
+      "Summary": {
+        "Theory": "After the fall of the Bastille, peasants in the countryside revolted against their lords. They attacked manor houses, looted grain hoards, and destroyed documents containing records of manorial dues. This period of panic and violence is known as the ‘Great Fear’.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.2.4": "Image 1.2.4.1: Illustration of peasants attacking a manor house and burning feudal documents. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What did peasants do during the Great Fear?",
+          "Solution": "They attacked manor houses and destroyed records of dues."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Why did peasants revolt in the countryside?",
+          "Solution": "They wanted to end feudal dues and oppression by the lords."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the ‘Great Fear’?",
+          "Options": {
+            "A": "A period of famine",
+            "B": "A period of panic and violence in the countryside",
+            "C": "A war with Austria",
+            "D": "A royal celebration"
+          },
+          "Correct Option": "B",
+          "Solution": "The ‘Great Fear’ was a period of panic and violence in the countryside."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did peasants destroy during the revolt?",
+          "Options": {
+            "A": "Churches",
+            "B": "Manor houses and feudal records",
+            "C": "Markets",
+            "D": "Royal palaces"
+          },
+          "Correct Option": "B",
+          "Solution": "They destroyed manor houses and feudal records."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why did peasants attack the manor houses?",
+          "Options": {
+            "A": "To become lords",
+            "B": "To end feudal dues",
+            "C": "To support the king",
+            "D": "To find treasure"
+          },
+          "Correct Option": "B",
+          "Solution": "They wanted to end feudal dues."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main target of the peasant revolt?",
+          "Options": {
+            "A": "Royal family",
+            "B": "Feudal documents and grain hoards",
+            "C": "Churches",
+            "D": "Foreigners"
+          },
+          "Correct Option": "B",
+          "Solution": "Feudal documents and grain hoards were the main targets."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the peasant revolt contribute to the abolition of feudalism?",
+          "Options": {
+            "A": "By supporting the king",
+            "B": "By destroying records of dues",
+            "C": "By paying more taxes",
+            "D": "By building new manors"
+          },
+          "Correct Option": "B",
+          "Solution": "By destroying records of dues, peasants weakened the feudal system."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the reaction of the lords to the peasant revolt?",
+          "Options": {
+            "A": "They welcomed the peasants",
+            "B": "They fled to towns or abroad",
+            "C": "They reduced taxes",
+            "D": "They joined the revolt"
+          },
+          "Correct Option": "B",
+          "Solution": "Many lords fled to towns or abroad."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the destruction of feudal documents mean for peasants?",
+          "Options": {
+            "A": "They had to pay more dues",
+            "B": "They were free from feudal obligations",
+            "C": "They lost their land",
+            "D": "They became nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "It meant freedom from feudal obligations."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was a common action by peasants during the Great Fear?",
+          "Options": {
+            "A": "Building new manors",
+            "B": "Burning records of manorial dues",
+            "C": "Supporting the king",
+            "D": "Becoming nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "Burning records of manorial dues was common."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the ‘Great Fear’?",
+          "Solution": "A period of panic and violence in the French countryside."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did peasants destroy feudal records?",
+          "Solution": "To end feudal dues and obligations."
+        }
+      }
+    },
+    "Subconcept: Abolition of Feudal System and Taxes": {
+      "Summary": {
+        "Theory": "On the night of 4 August 1789, the National Assembly abolished the feudal system of obligations and taxes. Members of the clergy and nobility gave up their privileges, ending serfdom, tithes, and special rights. This was a major step towards equality in French society.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.2.5": "Image 1.2.5.1: Illustration of the National Assembly session on 4 August 1789, showing members renouncing privileges. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What happened on the night of 4 August 1789?",
+          "Solution": "The National Assembly abolished feudal dues, tithes, and privileges."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Who gave up their privileges during the abolition of feudalism?",
+          "Solution": "Members of the clergy and nobility."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "When was the feudal system abolished in France?",
+          "Options": {
+            "A": "14 July 1789",
+            "B": "4 August 1789",
+            "C": "26 August 1789",
+            "D": "5 May 1789"
+          },
+          "Correct Option": "B",
+          "Solution": "The feudal system was abolished on 4 August 1789."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which assembly abolished feudalism in France?",
+          "Options": {
+            "A": "Estates General",
+            "B": "National Assembly",
+            "C": "Convention",
+            "D": "Directory"
+          },
+          "Correct Option": "B",
+          "Solution": "The National Assembly abolished feudalism."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was abolished along with feudal dues?",
+          "Options": {
+            "A": "Serfdom and tithes",
+            "B": "The monarchy",
+            "C": "The army",
+            "D": "The church"
+          },
+          "Correct Option": "A",
+          "Solution": "Serfdom and tithes were also abolished."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who gave up their privileges during the abolition of feudalism?",
+          "Options": {
+            "A": "Peasants",
+            "B": "Clergy and nobility",
+            "C": "Bourgeoisie",
+            "D": "Artisans"
+          },
+          "Correct Option": "B",
+          "Solution": "Clergy and nobility gave up their privileges."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the significance of the abolition of feudalism?",
+          "Options": {
+            "A": "It restored monarchy",
+            "B": "It established equality before law",
+            "C": "It increased taxes",
+            "D": "It ended the Revolution"
+          },
+          "Correct Option": "B",
+          "Solution": "It established equality before law."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did peasants gain from the abolition of feudalism?",
+          "Options": {
+            "A": "More taxes",
+            "B": "Freedom from feudal dues",
+            "C": "Noble titles",
+            "D": "Royal lands"
+          },
+          "Correct Option": "B",
+          "Solution": "Peasants gained freedom from feudal dues."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which privileges were ended by the National Assembly?",
+          "Options": {
+            "A": "Right to collect tithes and feudal dues",
+            "B": "Right to vote",
+            "C": "Right to trade",
+            "D": "Right to education"
+          },
+          "Correct Option": "A",
+          "Solution": "The right to collect tithes and feudal dues was ended."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the immediate effect of the abolition of feudalism?",
+          "Options": {
+            "A": "Equality before law",
+            "B": "Return of monarchy",
+            "C": "Increase in feudal dues",
+            "D": "End of the National Assembly"
+          },
+          "Correct Option": "A",
+          "Solution": "The immediate effect was equality before law."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was abolished on 4 August 1789?",
+          "Solution": "Feudal system, dues, tithes, and privileges."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who benefited most from the abolition of feudalism?",
+          "Solution": "Peasants and the Third Estate."
+        }
+      }
+    },
+    "Subconcept: Drafting of the Declaration of the Rights of Man and Citizen": {
+      "Summary": {
+        "Theory": "On 26 August 1789, the National Assembly adopted the Declaration of the Rights of Man and Citizen. It proclaimed freedom and equality for all men, guaranteed rights to liberty, property, security, and resistance to oppression, and ended privileges based on birth.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.2.6": "Image 1.2.6.1: Illustration of the Declaration of the Rights of Man and Citizen, showing the document with symbolic figures of liberty and justice. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What rights were guaranteed by the Declaration?",
+          "Solution": "Rights to liberty, property, security, and resistance to oppression."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What did the Declaration abolish?",
+          "Solution": "Privileges based on birth and established equality before law."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "When was the Declaration of the Rights of Man and Citizen adopted?",
+          "Options": {
+            "A": "4 August 1789",
+            "B": "26 August 1789",
+            "C": "14 July 1789",
+            "D": "5 May 1789"
+          },
+          "Correct Option": "B",
+          "Solution": "It was adopted on 26 August 1789."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which assembly adopted the Declaration?",
+          "Options": {
+            "A": "Estates General",
+            "B": "National Assembly",
+            "C": "Convention",
+            "D": "Directory"
+          },
+          "Correct Option": "B",
+          "Solution": "The National Assembly adopted the Declaration."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What rights did the Declaration guarantee?",
+          "Options": {
+            "A": "Liberty and property",
+            "B": "Security and resistance to oppression",
+            "C": "Both A and B",
+            "D": "Only property"
+          },
+          "Correct Option": "C",
+          "Solution": "It guaranteed liberty, property, security, and resistance to oppression."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the Declaration abolish?",
+          "Options": {
+            "A": "Privileges based on birth",
+            "B": "Right to vote",
+            "C": "Right to education",
+            "D": "Right to trade"
+          },
+          "Correct Option": "A",
+          "Solution": "It abolished privileges based on birth."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the significance of the Declaration?",
+          "Options": {
+            "A": "It restored monarchy",
+            "B": "It established equality before law",
+            "C": "It increased taxes",
+            "D": "It ended the Revolution"
+          },
+          "Correct Option": "B",
+          "Solution": "It established equality before law."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who was excluded from the rights guaranteed by the Declaration?",
+          "Options": {
+            "A": "Men",
+            "B": "Women",
+            "C": "Nobles",
+            "D": "Clergy"
+          },
+          "Correct Option": "B",
+          "Solution": "Women were excluded from the rights."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which Enlightenment ideas influenced the Declaration?",
+          "Options": {
+            "A": "Natural rights and equality",
+            "B": "Divine right of kings",
+            "C": "Feudal privileges",
+            "D": "Absolute monarchy"
+          },
+          "Correct Option": "A",
+          "Solution": "Natural rights and equality influenced the Declaration."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the Declaration proclaim about law?",
+          "Options": {
+            "A": "Law is the expression of the general will",
+            "B": "Law is made by the king",
+            "C": "Law is based on tradition",
+            "D": "Law is for nobles only"
+          },
+          "Correct Option": "A",
+          "Solution": "Law is the expression of the general will."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the Declaration of the Rights of Man and Citizen guarantee?",
+          "Solution": "Liberty, property, security, and resistance to oppression."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who was excluded from the Declaration’s rights?",
+          "Solution": "Women and children."
+        }
+      }
+    }
+  },
+  "Concept: France Abolishes Monarchy and Becomes a Republic": {
+    "Subconcept: Louis XVI’s Attempt to Escape and Arrest": {
+      "Summary": {
+        "Theory": "In June 1791, King Louis XVI and his family attempted to escape from Paris in disguise to seek help from foreign powers and regain control. They were recognized and arrested at Varennes, then brought back to Paris under guard. This event shattered the trust between the king and the people, increasing calls for a republic.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.3.1": "Image 1.3.1.1: Illustration of the royal family being stopped and arrested at Varennes, surrounded by guards and townspeople. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Why did Louis XVI try to escape from Paris?",
+          "Solution": "He wanted to seek help from foreign powers and regain his authority."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What happened to the king after his arrest at Varennes?",
+          "Solution": "He was brought back to Paris and kept under strict surveillance."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "In which year did Louis XVI attempt to escape from Paris?",
+          "Options": {
+            "A": "1789",
+            "B": "1791",
+            "C": "1792",
+            "D": "1793"
+          },
+          "Correct Option": "B",
+          "Solution": "Louis XVI attempted to escape in June 1791."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Where was the royal family arrested during their escape?",
+          "Options": {
+            "A": "Versailles",
+            "B": "Varennes",
+            "C": "Paris",
+            "D": "Lyon"
+          },
+          "Correct Option": "B",
+          "Solution": "They were arrested at Varennes."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main reason for the king’s attempted escape?",
+          "Options": {
+            "A": "To join the revolutionaries",
+            "B": "To seek foreign help and regain power",
+            "C": "To visit relatives",
+            "D": "To collect taxes"
+          },
+          "Correct Option": "B",
+          "Solution": "He wanted to seek foreign help and regain power."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "How did the people react to the king’s escape attempt?",
+          "Options": {
+            "A": "They supported him",
+            "B": "They lost trust in him",
+            "C": "They ignored it",
+            "D": "They crowned him emperor"
+          },
+          "Correct Option": "B",
+          "Solution": "The people lost trust in the king."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What impact did the king’s arrest have on the revolution?",
+          "Options": {
+            "A": "It strengthened the monarchy",
+            "B": "It increased calls for a republic",
+            "C": "It ended the revolution",
+            "D": "It restored feudalism"
+          },
+          "Correct Option": "B",
+          "Solution": "It increased calls for a republic."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What disguise did the royal family use during their escape?",
+          "Options": {
+            "A": "Soldiers",
+            "B": "Servants",
+            "C": "Merchants",
+            "D": "Priests"
+          },
+          "Correct Option": "B",
+          "Solution": "They disguised themselves as servants."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the immediate consequence for the king after his return to Paris?",
+          "Options": {
+            "A": "He was executed",
+            "B": "He was kept under strict surveillance",
+            "C": "He was sent abroad",
+            "D": "He was made president"
+          },
+          "Correct Option": "B",
+          "Solution": "He was kept under strict surveillance."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the king’s escape attempt reveal about his intentions?",
+          "Options": {
+            "A": "He supported the revolution",
+            "B": "He wanted to regain absolute power",
+            "C": "He wanted to abolish monarchy",
+            "D": "He wanted to help the poor"
+          },
+          "Correct Option": "B",
+          "Solution": "He wanted to regain absolute power."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Where was Louis XVI arrested during his escape?",
+          "Solution": "At Varennes."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What effect did the king’s escape have on the revolution?",
+          "Solution": "It increased distrust and calls for a republic."
+        }
+      }
+    },
+    "Subconcept: War with Prussia and Austria": {
+      "Summary": {
+        "Theory": "In April 1792, the National Assembly declared war on Prussia and Austria. The revolutionaries feared that foreign monarchies would try to restore Louis XVI to power. The war brought hardship, food shortages, and suspicion of traitors within France, intensifying the revolutionary crisis.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.3.2": "Image 1.3.2.1: Illustration of French revolutionary soldiers marching to war, with banners and cannons. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Why did France declare war on Prussia and Austria?",
+          "Solution": "To prevent foreign monarchies from interfering and restoring the king."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What problems did the war cause in France?",
+          "Solution": "It led to food shortages, suspicion, and hardship for the people."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "In which year did France declare war on Prussia and Austria?",
+          "Options": {
+            "A": "1789",
+            "B": "1791",
+            "C": "1792",
+            "D": "1793"
+          },
+          "Correct Option": "C",
+          "Solution": "France declared war in April 1792."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Why did the revolutionaries fear foreign monarchies?",
+          "Options": {
+            "A": "They wanted to help the poor",
+            "B": "They might restore Louis XVI",
+            "C": "They supported the revolution",
+            "D": "They wanted to abolish monarchy"
+          },
+          "Correct Option": "B",
+          "Solution": "They feared foreign monarchies might restore Louis XVI."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was a major consequence of the war for ordinary people?",
+          "Options": {
+            "A": "More food",
+            "B": "Hardship and shortages",
+            "C": "Peace",
+            "D": "Lower taxes"
+          },
+          "Correct Option": "B",
+          "Solution": "The war brought hardship and shortages."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who was suspected of being traitors during the war?",
+          "Options": {
+            "A": "Foreigners",
+            "B": "Nobles and clergy",
+            "C": "Peasants",
+            "D": "Artisans"
+          },
+          "Correct Option": "B",
+          "Solution": "Nobles and clergy were suspected of being traitors."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the war affect the revolution?",
+          "Options": {
+            "A": "It weakened revolutionary spirit",
+            "B": "It intensified the crisis and radicalized the revolution",
+            "C": "It restored monarchy",
+            "D": "It ended the revolution"
+          },
+          "Correct Option": "B",
+          "Solution": "The war intensified the crisis and radicalized the revolution."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the revolutionaries suspect the king of during the war?",
+          "Options": {
+            "A": "Supporting the revolution",
+            "B": "Secretly helping the enemy",
+            "C": "Fighting in the army",
+            "D": "Writing new laws"
+          },
+          "Correct Option": "B",
+          "Solution": "They suspected the king of secretly helping the enemy."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the impact of the war on the National Assembly?",
+          "Options": {
+            "A": "It became more moderate",
+            "B": "It became more radical",
+            "C": "It dissolved",
+            "D": "It restored the king"
+          },
+          "Correct Option": "B",
+          "Solution": "The National Assembly became more radical."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which countries did France fight in 1792?",
+          "Options": {
+            "A": "Spain and Italy",
+            "B": "Prussia and Austria",
+            "C": "England and Russia",
+            "D": "Portugal and Belgium"
+          },
+          "Correct Option": "B",
+          "Solution": "France fought Prussia and Austria."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did France declare war in 1792?",
+          "Solution": "To prevent foreign monarchies from restoring Louis XVI."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was a major effect of the war on French society?",
+          "Solution": "It caused hardship and suspicion."
+        }
+      }
+    },
+    "Subconcept: Insurrection of August 10, 1792": {
+      "Summary": {
+        "Theory": "On 10 August 1792, revolutionaries stormed the Tuileries Palace, where the royal family was staying. The king was arrested and suspended from his duties. This insurrection marked the end of monarchy’s real power and led to the election of a new assembly.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.3.3": "Image 1.3.3.1: Illustration of the storming of the Tuileries Palace, with armed revolutionaries confronting royal guards. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What happened at the Tuileries Palace on 10 August 1792?",
+          "Solution": "Revolutionaries stormed the palace and arrested the king."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What was the result of the insurrection?",
+          "Solution": "The king was suspended and a new assembly was elected."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "On which date did the insurrection at the Tuileries Palace occur?",
+          "Options": {
+            "A": "14 July 1789",
+            "B": "10 August 1792",
+            "C": "4 August 1789",
+            "D": "26 August 1789"
+          },
+          "Correct Option": "B",
+          "Solution": "The insurrection occurred on 10 August 1792."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Where was the royal family staying during the insurrection?",
+          "Options": {
+            "A": "Versailles",
+            "B": "Tuileries Palace",
+            "C": "Bastille",
+            "D": "Varennes"
+          },
+          "Correct Option": "B",
+          "Solution": "They were at the Tuileries Palace."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the immediate outcome of the insurrection?",
+          "Options": {
+            "A": "King was crowned emperor",
+            "B": "King was suspended and arrested",
+            "C": "Monarchy was restored",
+            "D": "Revolution ended"
+          },
+          "Correct Option": "B",
+          "Solution": "The king was suspended and arrested."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the insurrection of August 10, 1792, signify?",
+          "Options": {
+            "A": "Strengthening of monarchy",
+            "B": "End of monarchy’s real power",
+            "C": "Start of feudalism",
+            "D": "Return of the king"
+          },
+          "Correct Option": "B",
+          "Solution": "It signified the end of monarchy’s real power."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What happened to the king after the insurrection?",
+          "Options": {
+            "A": "He was executed immediately",
+            "B": "He was suspended and imprisoned",
+            "C": "He fled abroad",
+            "D": "He became president"
+          },
+          "Correct Option": "B",
+          "Solution": "He was suspended and imprisoned."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was formed after the insurrection?",
+          "Options": {
+            "A": "A new assembly",
+            "B": "A new monarchy",
+            "C": "A new army",
+            "D": "A new church"
+          },
+          "Correct Option": "A",
+          "Solution": "A new assembly was formed."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who led the insurrection of August 10, 1792?",
+          "Options": {
+            "A": "Royal guards",
+            "B": "Revolutionaries and citizens",
+            "C": "Foreign armies",
+            "D": "Nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "Revolutionaries and citizens led the insurrection."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the fate of the monarchy after August 10, 1792?",
+          "Options": {
+            "A": "It was strengthened",
+            "B": "It lost real power",
+            "C": "It expanded",
+            "D": "It became absolute"
+          },
+          "Correct Option": "B",
+          "Solution": "The monarchy lost real power."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What happened to the king on 10 August 1792?",
+          "Solution": "He was arrested and suspended from his duties."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the insurrection of August 10, 1792, lead to?",
+          "Solution": "End of monarchy’s real power and a new assembly."
+        }
+      }
+    },
+    "Subconcept: Abolition of Monarchy and Proclamation of the Republic": {
+      "Summary": {
+        "Theory": "On 21 September 1792, the newly elected Convention abolished the monarchy and declared France a republic. This meant that the country would be governed by elected representatives, not a king.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.3.4": "Image 1.3.4.1: Illustration of the Convention declaring the abolition of monarchy, with members raising hands and a symbolic empty throne. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "When was the monarchy abolished in France?",
+          "Solution": "On 21 September 1792."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What form of government replaced the monarchy?",
+          "Solution": "A republic governed by elected representatives."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "On which date was the monarchy abolished in France?",
+          "Options": {
+            "A": "10 August 1792",
+            "B": "21 September 1792",
+            "C": "14 July 1789",
+            "D": "4 August 1789"
+          },
+          "Correct Option": "B",
+          "Solution": "The monarchy was abolished on 21 September 1792."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was proclaimed after the abolition of monarchy?",
+          "Options": {
+            "A": "A new monarchy",
+            "B": "A republic",
+            "C": "A dictatorship",
+            "D": "A theocracy"
+          },
+          "Correct Option": "B",
+          "Solution": "A republic was proclaimed."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who governed France after the monarchy was abolished?",
+          "Options": {
+            "A": "The king",
+            "B": "Elected representatives",
+            "C": "Foreign powers",
+            "D": "Nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "Elected representatives governed France."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the abolition of monarchy signify?",
+          "Options": {
+            "A": "End of revolution",
+            "B": "Start of a new monarchy",
+            "C": "End of hereditary rule",
+            "D": "Return of feudalism"
+          },
+          "Correct Option": "C",
+          "Solution": "It signified the end of hereditary rule."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the Convention?",
+          "Options": {
+            "A": "A royal council",
+            "B": "An elected assembly",
+            "C": "A foreign army",
+            "D": "A religious group"
+          },
+          "Correct Option": "B",
+          "Solution": "The Convention was an elected assembly."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the abolition of monarchy mean for France?",
+          "Options": {
+            "A": "Rule by king",
+            "B": "Rule by elected representatives",
+            "C": "Rule by nobles",
+            "D": "Rule by foreign powers"
+          },
+          "Correct Option": "B",
+          "Solution": "It meant rule by elected representatives."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the significance of proclaiming a republic?",
+          "Options": {
+            "A": "It restored monarchy",
+            "B": "It established popular sovereignty",
+            "C": "It ended elections",
+            "D": "It increased royal power"
+          },
+          "Correct Option": "B",
+          "Solution": "It established popular sovereignty."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What happened to the king after the proclamation of the republic?",
+          "Options": {
+            "A": "He became president",
+            "B": "He was put on trial",
+            "C": "He was sent abroad",
+            "D": "He was restored to power"
+          },
+          "Correct Option": "B",
+          "Solution": "He was put on trial."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the Convention declare on 21 September 1792?",
+          "Solution": "Abolition of monarchy and proclamation of a republic."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who ruled France after the monarchy was abolished?",
+          "Solution": "Elected representatives."
+        }
+      }
+    },
+    "Subconcept: Trial and Execution of the King": {
+      "Summary": {
+        "Theory": "After the abolition of monarchy, Louis XVI was put on trial for treason. He was found guilty and sentenced to death. On 21 January 1793, he was executed by guillotine in the public square, marking a decisive moment in the Revolution.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.3.5": "Image 1.3.5.1: Illustration of the execution of Louis XVI by guillotine, with a crowd gathered in the square. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Why was Louis XVI put on trial?",
+          "Solution": "He was accused of treason against the nation."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "How was the king executed?",
+          "Solution": "He was executed by guillotine in a public square."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "On which date was Louis XVI executed?",
+          "Options": {
+            "A": "21 January 1793",
+            "B": "21 September 1792",
+            "C": "14 July 1789",
+            "D": "10 August 1792"
+          },
+          "Correct Option": "A",
+          "Solution": "He was executed on 21 January 1793."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the king found guilty of?",
+          "Options": {
+            "A": "Helping the poor",
+            "B": "Treason",
+            "C": "Writing new laws",
+            "D": "Supporting the revolution"
+          },
+          "Correct Option": "B",
+          "Solution": "He was found guilty of treason."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "How was Louis XVI executed?",
+          "Options": {
+            "A": "By hanging",
+            "B": "By firing squad",
+            "C": "By guillotine",
+            "D": "By exile"
+          },
+          "Correct Option": "C",
+          "Solution": "He was executed by guillotine."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Where did the execution of Louis XVI take place?",
+          "Options": {
+            "A": "Versailles",
+            "B": "Public square in Paris",
+            "C": "Tuileries Palace",
+            "D": "Bastille"
+          },
+          "Correct Option": "B",
+          "Solution": "It took place in a public square in Paris."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the execution of the king signify?",
+          "Options": {
+            "A": "End of the Revolution",
+            "B": "Definitive break with monarchy",
+            "C": "Restoration of monarchy",
+            "D": "Start of feudalism"
+          },
+          "Correct Option": "B",
+          "Solution": "It signified a definitive break with monarchy."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who decided the king’s fate?",
+          "Options": {
+            "A": "The king himself",
+            "B": "The Convention",
+            "C": "Foreign powers",
+            "D": "The clergy"
+          },
+          "Correct Option": "B",
+          "Solution": "The Convention decided the king’s fate."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the reaction of other European monarchies to the king’s execution?",
+          "Options": {
+            "A": "They supported it",
+            "B": "They were shocked and hostile",
+            "C": "They ignored it",
+            "D": "They joined the republic"
+          },
+          "Correct Option": "B",
+          "Solution": "They were shocked and became hostile to the revolution."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What device was used for the execution?",
+          "Options": {
+            "A": "Sword",
+            "B": "Guillotine",
+            "C": "Axe",
+            "D": "Rope"
+          },
+          "Correct Option": "B",
+          "Solution": "The guillotine was used for the execution."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why was Louis XVI executed?",
+          "Solution": "He was found guilty of treason."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the king’s execution mark?",
+          "Solution": "A decisive break with monarchy."
+        }
+      }
+    }
+  },
+  "Concept: The Reign of Terror": {
+    "Subconcept: Rise of Robespierre and the Jacobins": {
+      "Summary": {
+        "Theory": "After the execution of the king, the Jacobin Club, led by Maximilien Robespierre, gained control of the government. The Jacobins represented the most radical section of the revolutionaries and drew support from the poor. Robespierre became the leader of the Committee of Public Safety, which held absolute power.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.4.1": "Image 1.4.1.1: Portrait of Robespierre addressing the Jacobin Club, with members listening intently. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Who led the Jacobin Club during the Reign of Terror?",
+          "Solution": "Maximilien Robespierre."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What was the Committee of Public Safety?",
+          "Solution": "A powerful body led by Robespierre to protect the revolution."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Who was the leader of the Jacobins?",
+          "Options": {
+            "A": "Louis XVI",
+            "B": "Robespierre",
+            "C": "Napoleon",
+            "D": "Mirabeau"
+          },
+          "Correct Option": "B",
+          "Solution": "Robespierre led the Jacobins."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the Jacobin Club?",
+          "Options": {
+            "A": "A royalist group",
+            "B": "A radical revolutionary club",
+            "C": "A foreign army",
+            "D": "A religious order"
+          },
+          "Correct Option": "B",
+          "Solution": "The Jacobin Club was a radical revolutionary group."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who supported the Jacobins?",
+          "Options": {
+            "A": "Nobles",
+            "B": "Poor and working class",
+            "C": "Foreign monarchs",
+            "D": "Clergy"
+          },
+          "Correct Option": "B",
+          "Solution": "The poor and working class supported the Jacobins."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the Committee of Public Safety?",
+          "Options": {
+            "A": "A royal council",
+            "B": "A revolutionary government body",
+            "C": "A church committee",
+            "D": "A foreign alliance"
+          },
+          "Correct Option": "B",
+          "Solution": "It was a revolutionary government body."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What role did Robespierre play in the government?",
+          "Options": {
+            "A": "King",
+            "B": "President",
+            "C": "Leader of the Committee of Public Safety",
+            "D": "General"
+          },
+          "Correct Option": "C",
+          "Solution": "He was the leader of the Committee of Public Safety."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main aim of the Jacobins?",
+          "Options": {
+            "A": "Restore monarchy",
+            "B": "Defend the revolution and establish equality",
+            "C": "Expand the church",
+            "D": "Support foreign powers"
+          },
+          "Correct Option": "B",
+          "Solution": "Their aim was to defend the revolution and establish equality."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which section of society did the Jacobins mainly represent?",
+          "Options": {
+            "A": "Nobility",
+            "B": "Clergy",
+            "C": "Poor and working class",
+            "D": "Foreigners"
+          },
+          "Correct Option": "C",
+          "Solution": "They mainly represented the poor and working class."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was Robespierre’s full name?",
+          "Options": {
+            "A": "Maximilien Robespierre",
+            "B": "Louis Robespierre",
+            "C": "Jean Robespierre",
+            "D": "Pierre Robespierre"
+          },
+          "Correct Option": "A",
+          "Solution": "His full name was Maximilien Robespierre."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who led the Committee of Public Safety?",
+          "Solution": "Maximilien Robespierre."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which group became dominant after the king’s execution?",
+          "Solution": "The Jacobins."
+        }
+      }
+    },
+    "Subconcept: Policies of the Reign of Terror": {
+      "Summary": {
+        "Theory": "From 1793 to 1794, Robespierre followed policies to defend the revolution. Suspected enemies were arrested, tried, and many were executed by guillotine. Laws placed price controls on bread and rationed food. Churches were closed, and titles were abolished. The period is known as the Reign of Terror.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.4.2": "Image 1.4.2.1: Illustration of a guillotine in a public square, with crowds and revolutionary guards. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What happened to those suspected of being enemies of the revolution?",
+          "Solution": "They were arrested, tried, and often executed."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What economic policy was introduced during the Reign of Terror?",
+          "Solution": "Price controls and rationing of bread."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the Reign of Terror?",
+          "Options": {
+            "A": "A period of peace",
+            "B": "A period of violence and executions",
+            "C": "A royal celebration",
+            "D": "A foreign invasion"
+          },
+          "Correct Option": "B",
+          "Solution": "It was a period of violence and executions."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which device was used for executions during the Reign of Terror?",
+          "Options": {
+            "A": "Sword",
+            "B": "Guillotine",
+            "C": "Axe",
+            "D": "Rope"
+          },
+          "Correct Option": "B",
+          "Solution": "The guillotine was used."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What happened to churches during the Reign of Terror?",
+          "Options": {
+            "A": "They were closed",
+            "B": "They were expanded",
+            "C": "They were made royal palaces",
+            "D": "They were left untouched"
+          },
+          "Correct Option": "A",
+          "Solution": "Churches were closed."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What economic measure was taken to help the poor?",
+          "Options": {
+            "A": "Price controls on bread",
+            "B": "Increase in taxes",
+            "C": "Free land for nobles",
+            "D": "Import of luxury goods"
+          },
+          "Correct Option": "A",
+          "Solution": "Price controls on bread were introduced."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who were considered enemies of the revolution?",
+          "Options": {
+            "A": "Nobles, clergy, and anyone suspected of disloyalty",
+            "B": "Only foreigners",
+            "C": "Only peasants",
+            "D": "Only soldiers"
+          },
+          "Correct Option": "A",
+          "Solution": "Nobles, clergy, and anyone suspected of disloyalty."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What happened to titles during the Reign of Terror?",
+          "Options": {
+            "A": "They were abolished",
+            "B": "They were increased",
+            "C": "They were given to peasants",
+            "D": "They were unchanged"
+          },
+          "Correct Option": "A",
+          "Solution": "Titles were abolished."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the main aim of the harsh policies?",
+          "Options": {
+            "A": "To restore monarchy",
+            "B": "To protect the revolution from its enemies",
+            "C": "To increase church power",
+            "D": "To support foreign armies"
+          },
+          "Correct Option": "B",
+          "Solution": "To protect the revolution from its enemies."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was rationed during the Reign of Terror?",
+          "Options": {
+            "A": "Bread",
+            "B": "Gold",
+            "C": "Land",
+            "D": "Clothes"
+          },
+          "Correct Option": "A",
+          "Solution": "Bread was rationed."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the guillotine?",
+          "Solution": "A device used for executions."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why were churches closed during the Reign of Terror?",
+          "Solution": "To reduce the church’s influence."
+        }
+      }
+    },
+    "Subconcept: End of the Reign of Terror and Execution of Robespierre": {
+      "Summary": {
+        "Theory": "Robespierre’s harsh policies and executions made him unpopular. In July 1794, he was arrested and executed by guillotine. This ended the Reign of Terror and led to a more moderate government.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.4.3": "Image 1.4.3.1: Illustration of Robespierre being led to the guillotine, with a crowd watching. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Why was Robespierre executed?",
+          "Solution": "He became unpopular due to his harsh policies."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What happened after Robespierre’s execution?",
+          "Solution": "The Reign of Terror ended and a more moderate government took over."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "When was Robespierre executed?",
+          "Options": {
+            "A": "July 1794",
+            "B": "January 1793",
+            "C": "August 1792",
+            "D": "September 1792"
+          },
+          "Correct Option": "A",
+          "Solution": "He was executed in July 1794."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "How was Robespierre executed?",
+          "Options": {
+            "A": "By hanging",
+            "B": "By guillotine",
+            "C": "By exile",
+            "D": "By firing squad"
+          },
+          "Correct Option": "B",
+          "Solution": "He was executed by guillotine."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why did Robespierre become unpopular?",
+          "Options": {
+            "A": "He was too lenient",
+            "B": "His harsh policies and executions",
+            "C": "He supported the king",
+            "D": "He left France"
+          },
+          "Correct Option": "B",
+          "Solution": "His harsh policies and executions made him unpopular."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What ended with Robespierre’s execution?",
+          "Options": {
+            "A": "The monarchy",
+            "B": "The Reign of Terror",
+            "C": "The revolution",
+            "D": "The war"
+          },
+          "Correct Option": "B",
+          "Solution": "The Reign of Terror ended."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What type of government followed Robespierre’s fall?",
+          "Options": {
+            "A": "More radical",
+            "B": "More moderate",
+            "C": "Monarchy",
+            "D": "Dictatorship"
+          },
+          "Correct Option": "B",
+          "Solution": "A more moderate government followed."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main reason for Robespierre’s downfall?",
+          "Options": {
+            "A": "Support for monarchy",
+            "B": "Unpopularity due to harsh policies",
+            "C": "Foreign invasion",
+            "D": "Economic prosperity"
+          },
+          "Correct Option": "B",
+          "Solution": "Unpopularity due to harsh policies."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did Robespierre’s execution symbolize?",
+          "Options": {
+            "A": "End of the revolution",
+            "B": "End of radical rule",
+            "C": "Start of monarchy",
+            "D": "Start of war"
+          },
+          "Correct Option": "B",
+          "Solution": "It symbolized the end of radical rule."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Who took over after Robespierre’s execution?",
+          "Options": {
+            "A": "The king",
+            "B": "A more moderate government",
+            "C": "Foreign powers",
+            "D": "The Jacobins"
+          },
+          "Correct Option": "B",
+          "Solution": "A more moderate government took over."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did the Reign of Terror end?",
+          "Solution": "Robespierre was executed due to his harsh policies."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What followed the end of the Reign of Terror?",
+          "Solution": "A more moderate government."
+        }
+      }
+    }
+  },
+  "Concept: A Directory Rules France": {
+    "Subconcept: Formation and Structure of the Directory": {
+      "Summary": {
+        "Theory": "After the fall of Robespierre, a new constitution was adopted in 1795. It provided for an executive of five members called the Directory, chosen by the legislature. The Directory was meant to prevent concentration of power in one person, but it was often corrupt and inefficient.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.5.1": "Image 1.5.1.1: Illustration of the five Directors seated at a table, with the legislature in the background. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What was the Directory?",
+          "Solution": "An executive body of five members chosen by the legislature."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Why was the Directory formed?",
+          "Solution": "To prevent concentration of power in one person."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "When was the Directory formed?",
+          "Options": {
+            "A": "1793",
+            "B": "1795",
+            "C": "1792",
+            "D": "1794"
+          },
+          "Correct Option": "B",
+          "Solution": "The Directory was formed in 1795."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "How many members were in the Directory?",
+          "Options": {
+            "A": "Three",
+            "B": "Five",
+            "C": "Seven",
+            "D": "Ten"
+          },
+          "Correct Option": "B",
+          "Solution": "There were five members."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who chose the members of the Directory?",
+          "Options": {
+            "A": "The king",
+            "B": "The legislature",
+            "C": "The people",
+            "D": "The army"
+          },
+          "Correct Option": "B",
+          "Solution": "The legislature chose the Directors."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the main purpose of the Directory?",
+          "Options": {
+            "A": "To restore monarchy",
+            "B": "To prevent concentration of power",
+            "C": "To support Robespierre",
+            "D": "To abolish the legislature"
+          },
+          "Correct Option": "B",
+          "Solution": "To prevent concentration of power."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was a major problem with the Directory?",
+          "Options": {
+            "A": "It was very efficient",
+            "B": "It was often corrupt and inefficient",
+            "C": "It was too powerful",
+            "D": "It was loved by all"
+          },
+          "Correct Option": "B",
+          "Solution": "It was often corrupt and inefficient."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the new constitution of 1795 provide for?",
+          "Options": {
+            "A": "A king",
+            "B": "A single executive",
+            "C": "A five-member Directory",
+            "D": "No executive"
+          },
+          "Correct Option": "C",
+          "Solution": "It provided for a five-member Directory."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did the Directory fail?",
+          "Options": {
+            "A": "It was too strong",
+            "B": "It was corrupt and faced political instability",
+            "C": "It was supported by all",
+            "D": "It had no opposition"
+          },
+          "Correct Option": "B",
+          "Solution": "It was corrupt and faced political instability."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the legislature’s role under the Directory?",
+          "Options": {
+            "A": "To choose the Directors",
+            "B": "To abolish the Directory",
+            "C": "To restore monarchy",
+            "D": "To support Robespierre"
+          },
+          "Correct Option": "A",
+          "Solution": "The legislature chose the Directors."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How many members were in the Directory?",
+          "Solution": "Five."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why was the Directory formed?",
+          "Solution": "To prevent concentration of power."
+        }
+      }
+    },
+    "Subconcept: Political Instability and Rise of Napoleon Bonaparte": {
+      "Summary": {
+        "Theory": "The Directory was plagued by corruption and political conflict. It could not solve France’s economic problems and relied on the army to maintain power. In 1799, Napoleon Bonaparte, a successful general, overthrew the Directory and established his own rule.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.5.2": "Image 1.5.2.1: Illustration of Napoleon Bonaparte leading troops, with the Directory in the background. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Why did the Directory become unpopular?",
+          "Solution": "It was corrupt, inefficient, and could not solve economic problems."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Who overthrew the Directory in 1799?",
+          "Solution": "Napoleon Bonaparte."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Who overthrew the Directory?",
+          "Options": {
+            "A": "Robespierre",
+            "B": "Napoleon Bonaparte",
+            "C": "Louis XVI",
+            "D": "The Jacobins"
+          },
+          "Correct Option": "B",
+          "Solution": "Napoleon Bonaparte overthrew the Directory."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "In which year did Napoleon seize power?",
+          "Options": {
+            "A": "1795",
+            "B": "1799",
+            "C": "1793",
+            "D": "1804"
+          },
+          "Correct Option": "B",
+          "Solution": "Napoleon seized power in 1799."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why did the Directory rely on the army?",
+          "Options": {
+            "A": "To expand territory",
+            "B": "To maintain power and control",
+            "C": "To support the king",
+            "D": "To abolish laws"
+          },
+          "Correct Option": "B",
+          "Solution": "It relied on the army to maintain power and control."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was a major weakness of the Directory?",
+          "Options": {
+            "A": "It was too powerful",
+            "B": "It was corrupt and unstable",
+            "C": "It was loved by all",
+            "D": "It had no opposition"
+          },
+          "Correct Option": "B",
+          "Solution": "It was corrupt and unstable."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What economic problems did the Directory face?",
+          "Options": {
+            "A": "Inflation and food shortages",
+            "B": "Too much wealth",
+            "C": "No taxes",
+            "D": "Surplus of goods"
+          },
+          "Correct Option": "A",
+          "Solution": "It faced inflation and food shortages."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who was Napoleon Bonaparte?",
+          "Options": {
+            "A": "A king",
+            "B": "A general who became ruler",
+            "C": "A priest",
+            "D": "A noble"
+          },
+          "Correct Option": "B",
+          "Solution": "He was a general who became ruler."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What led to the fall of the Directory?",
+          "Options": {
+            "A": "Its popularity",
+            "B": "Political instability and military intervention",
+            "C": "Support from the people",
+            "D": "Economic prosperity"
+          },
+          "Correct Option": "B",
+          "Solution": "Political instability and military intervention led to its fall."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did Napoleon establish after overthrowing the Directory?",
+          "Options": {
+            "A": "A monarchy",
+            "B": "His own rule",
+            "C": "A theocracy",
+            "D": "A republic"
+          },
+          "Correct Option": "B",
+          "Solution": "He established his own rule."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who overthrew the Directory?",
+          "Solution": "Napoleon Bonaparte."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did the Directory fail?",
+          "Solution": "It was corrupt and politically unstable."
+        }
+      }
+    }
+  },
+  "Concept: Did Women Have a Revolution?": {
+    "Subconcept: Role of Women in the Revolution": {
+      "Summary": {
+        "Theory": "Women played an active and vital role in the French Revolution. They participated in political clubs, attended assemblies, and took part in demonstrations such as the famous march to Versailles in October 1789 to demand bread. Women’s involvement showed their determination to improve their living conditions and claim their rights.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.6.1": "Image 1.6.1.1: Illustration of women marching to Versailles, carrying banners and demanding bread. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What was the march to Versailles?",
+          "Solution": "A demonstration by women demanding bread and action from the king."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "How did women participate in the Revolution?",
+          "Solution": "By joining political clubs, attending assemblies, and leading protests."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did women demand during the march to Versailles?",
+          "Options": {
+            "A": "More taxes",
+            "B": "Bread and action from the king",
+            "C": "Royal titles",
+            "D": "Foreign help"
+          },
+          "Correct Option": "B",
+          "Solution": "They demanded bread and action from the king."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which event is a famous example of women’s participation?",
+          "Options": {
+            "A": "Storming of the Bastille",
+            "B": "March to Versailles",
+            "C": "Execution of the king",
+            "D": "Formation of the Directory"
+          },
+          "Correct Option": "B",
+          "Solution": "The march to Versailles is a famous example."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "How did women express their political views?",
+          "Options": {
+            "A": "By voting",
+            "B": "By joining clubs and assemblies",
+            "C": "By becoming nobles",
+            "D": "By supporting the king"
+          },
+          "Correct Option": "B",
+          "Solution": "They joined clubs and attended assemblies."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why did women participate in the Revolution?",
+          "Options": {
+            "A": "To support monarchy",
+            "B": "To improve living conditions and claim rights",
+            "C": "To become soldiers",
+            "D": "To collect taxes"
+          },
+          "Correct Option": "B",
+          "Solution": "They wanted to improve living conditions and claim rights."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the significance of women’s participation?",
+          "Options": {
+            "A": "It was ignored",
+            "B": "It showed their determination for change",
+            "C": "It restored monarchy",
+            "D": "It ended the Revolution"
+          },
+          "Correct Option": "B",
+          "Solution": "It showed their determination for change."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did women hope to achieve through their actions?",
+          "Options": {
+            "A": "More privileges for nobles",
+            "B": "Better living conditions and rights",
+            "C": "Support for the king",
+            "D": "Foreign intervention"
+          },
+          "Correct Option": "B",
+          "Solution": "They hoped for better living conditions and rights."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which group of women was most active in the Revolution?",
+          "Options": {
+            "A": "Noblewomen",
+            "B": "Working women and market women",
+            "C": "Foreign women",
+            "D": "Royal family"
+          },
+          "Correct Option": "B",
+          "Solution": "Working women and market women were most active."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did women’s participation in the Revolution demonstrate?",
+          "Options": {
+            "A": "Their indifference",
+            "B": "Their political awareness and activism",
+            "C": "Their support for monarchy",
+            "D": "Their wealth"
+          },
+          "Correct Option": "B",
+          "Solution": "It demonstrated their political awareness and activism."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name a famous event led by women during the Revolution.",
+          "Solution": "The march to Versailles."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did women join political clubs?",
+          "Solution": "To express their views and demand rights."
+        }
+      }
+    },
+    "Subconcept: Demands for Political and Legal Equality": {
+      "Summary": {
+        "Theory": "Women demanded political and legal equality during the Revolution. They wanted the right to vote, hold public office, and receive education. Women also called for laws to improve their social and economic status, including the right to divorce and own property.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.6.2": "Image 1.6.2.1: Illustration of women presenting petitions for rights to the National Assembly. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What political rights did women demand?",
+          "Solution": "The right to vote and hold public office."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What legal reforms did women seek?",
+          "Solution": "Right to divorce and own property."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did women demand during the Revolution?",
+          "Options": {
+            "A": "More taxes",
+            "B": "Political and legal equality",
+            "C": "Royal privileges",
+            "D": "Foreign rule"
+          },
+          "Correct Option": "B",
+          "Solution": "They demanded political and legal equality."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which right did women want regarding public office?",
+          "Options": {
+            "A": "To be excluded",
+            "B": "To hold public office",
+            "C": "To abolish offices",
+            "D": "To support only men"
+          },
+          "Correct Option": "B",
+          "Solution": "They wanted the right to hold public office."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What educational demand did women make?",
+          "Options": {
+            "A": "No education",
+            "B": "Equal access to education",
+            "C": "Education only for boys",
+            "D": "Education for nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "They demanded equal access to education."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which legal right did women seek?",
+          "Options": {
+            "A": "Right to vote",
+            "B": "Right to divorce",
+            "C": "Right to own property",
+            "D": "All of the above"
+          },
+          "Correct Option": "D",
+          "Solution": "They sought all these rights."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who was Olympe de Gouges?",
+          "Options": {
+            "A": "A queen",
+            "B": "A revolutionary woman who demanded equal rights",
+            "C": "A noblewoman",
+            "D": "A foreigner"
+          },
+          "Correct Option": "B",
+          "Solution": "She was a revolutionary woman who demanded equal rights."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did women want regarding property?",
+          "Options": {
+            "A": "No property rights",
+            "B": "Equal right to own property",
+            "C": "Property only for men",
+            "D": "Property for nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "They wanted equal right to own property."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the Declaration of the Rights of Woman?",
+          "Options": {
+            "A": "A royal decree",
+            "B": "A document demanding equal rights for women",
+            "C": "A law for nobles",
+            "D": "A church order"
+          },
+          "Correct Option": "B",
+          "Solution": "It was a document demanding equal rights for women."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did women want regarding marriage?",
+          "Options": {
+            "A": "No change",
+            "B": "Right to divorce",
+            "C": "Arranged marriages only",
+            "D": "Marriage for nobles only"
+          },
+          "Correct Option": "B",
+          "Solution": "They wanted the right to divorce."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name one legal right women demanded.",
+          "Solution": "Right to divorce."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who wrote the Declaration of the Rights of Woman?",
+          "Solution": "Olympe de Gouges."
+        }
+      }
+    },
+    "Subconcept: Formation of Women’s Clubs": {
+      "Summary": {
+        "Theory": "Women formed their own political clubs to discuss issues and demand rights. The Society of Revolutionary and Republican Women was the most famous. These clubs campaigned for equal rights, education, and better working conditions.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.6.3": "Image 1.6.3.1: Illustration of women meeting in a political club, discussing and planning actions. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What was the Society of Revolutionary and Republican Women?",
+          "Solution": "A political club formed by women to demand rights."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Why did women form clubs?",
+          "Solution": "To discuss issues and campaign for equality."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the purpose of women’s clubs?",
+          "Options": {
+            "A": "To support monarchy",
+            "B": "To demand rights and equality",
+            "C": "To collect taxes",
+            "D": "To support foreign powers"
+          },
+          "Correct Option": "B",
+          "Solution": "They demanded rights and equality."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Name a famous women’s club during the Revolution.",
+          "Options": {
+            "A": "Society of Revolutionary and Republican Women",
+            "B": "Royalist Club",
+            "C": "Noblewomen’s Society",
+            "D": "Foreign Women’s League"
+          },
+          "Correct Option": "A",
+          "Solution": "Society of Revolutionary and Republican Women."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What issues did women’s clubs discuss?",
+          "Options": {
+            "A": "Education and working conditions",
+            "B": "Royal privileges",
+            "C": "Foreign policy",
+            "D": "Religious matters"
+          },
+          "Correct Option": "A",
+          "Solution": "They discussed education and working conditions."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why were women’s clubs important?",
+          "Options": {
+            "A": "They supported the king",
+            "B": "They gave women a voice in politics",
+            "C": "They collected taxes",
+            "D": "They opposed education"
+          },
+          "Correct Option": "B",
+          "Solution": "They gave women a voice in politics."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What happened to women’s clubs in 1793?",
+          "Options": {
+            "A": "They were banned",
+            "B": "They became more powerful",
+            "C": "They joined the army",
+            "D": "They supported monarchy"
+          },
+          "Correct Option": "A",
+          "Solution": "Women’s clubs were banned in 1793."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did women campaign for in their clubs?",
+          "Options": {
+            "A": "More taxes",
+            "B": "Equal rights and education",
+            "C": "Royal privileges",
+            "D": "Foreign intervention"
+          },
+          "Correct Option": "B",
+          "Solution": "They campaigned for equal rights and education."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did women’s clubs influence society?",
+          "Options": {
+            "A": "By supporting the king",
+            "B": "By raising awareness about women’s rights",
+            "C": "By collecting taxes",
+            "D": "By banning education"
+          },
+          "Correct Option": "B",
+          "Solution": "They raised awareness about women’s rights."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was a common activity in women’s clubs?",
+          "Options": {
+            "A": "Debating and planning actions",
+            "B": "Crowning kings",
+            "C": "Collecting taxes",
+            "D": "Supporting foreign armies"
+          },
+          "Correct Option": "A",
+          "Solution": "Debating and planning actions."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name a famous women’s club.",
+          "Solution": "Society of Revolutionary and Republican Women."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why were women’s clubs banned?",
+          "Solution": "Authorities feared their influence."
+        }
+      }
+    },
+    "Subconcept: Women’s Suffrage and Rights": {
+      "Summary": {
+        "Theory": "Women demanded the right to vote (suffrage) and equal rights during the Revolution. However, the new laws did not grant women the right to vote or hold political office. Some legal reforms, such as the right to divorce and education, were introduced, but political equality was not achieved.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.6.4": "Image 1.6.4.1: Illustration of women presenting a petition for voting rights to the National Assembly. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What is suffrage?",
+          "Solution": "The right to vote in political elections."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Did women get the right to vote after the Revolution?",
+          "Solution": "No, women were denied the right to vote."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What does suffrage mean?",
+          "Options": {
+            "A": "Right to own property",
+            "B": "Right to vote",
+            "C": "Right to education",
+            "D": "Right to work"
+          },
+          "Correct Option": "B",
+          "Solution": "Suffrage means the right to vote."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Did women get the right to vote after the Revolution?",
+          "Options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only noblewomen",
+            "D": "Only foreigners"
+          },
+          "Correct Option": "B",
+          "Solution": "No, women did not get the right to vote."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which rights did women gain after the Revolution?",
+          "Options": {
+            "A": "Right to divorce and education",
+            "B": "Right to become king",
+            "C": "Right to rule",
+            "D": "Right to collect taxes"
+          },
+          "Correct Option": "A",
+          "Solution": "They gained the right to divorce and education."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What political right was denied to women?",
+          "Options": {
+            "A": "Right to own property",
+            "B": "Right to vote",
+            "C": "Right to education",
+            "D": "Right to work"
+          },
+          "Correct Option": "B",
+          "Solution": "The right to vote was denied."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the attitude of revolutionary leaders towards women’s suffrage?",
+          "Options": {
+            "A": "Supportive",
+            "B": "Indifferent",
+            "C": "Opposed",
+            "D": "Unaware"
+          },
+          "Correct Option": "C",
+          "Solution": "They were opposed to women’s suffrage."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which legal reform benefited women?",
+          "Options": {
+            "A": "Right to divorce",
+            "B": "Right to become king",
+            "C": "Right to vote",
+            "D": "Right to rule"
+          },
+          "Correct Option": "A",
+          "Solution": "Right to divorce benefited women."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did women’s denial of suffrage show?",
+          "Options": {
+            "A": "Full equality",
+            "B": "Incomplete revolution for women",
+            "C": "Support for monarchy",
+            "D": "End of women’s activism"
+          },
+          "Correct Option": "B",
+          "Solution": "It showed the revolution was incomplete for women."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What right did women continue to demand after the Revolution?",
+          "Options": {
+            "A": "Right to vote",
+            "B": "Right to become king",
+            "C": "Right to collect taxes",
+            "D": "Right to abolish laws"
+          },
+          "Correct Option": "A",
+          "Solution": "They continued to demand the right to vote."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What is suffrage?",
+          "Solution": "The right to vote."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Did women get political equality after the Revolution?",
+          "Solution": "No, they were denied political equality."
+        }
+      }
+    },
+    "Subconcept: Outcomes for Women after the Revolution": {
+      "Summary": {
+        "Theory": "After the Revolution, women gained some legal rights such as access to education and the right to divorce. However, they were denied political rights and could not vote or hold office. Women’s political clubs were banned in 1793, and their activism was suppressed. Full equality was not achieved until much later.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.6.5": "Image 1.6.5.1: Illustration of women reading and attending school, with a closed club in the background. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What legal rights did women gain after the Revolution?",
+          "Solution": "Access to education and the right to divorce."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What happened to women’s political clubs?",
+          "Solution": "They were banned in 1793."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What legal right did women gain after the Revolution?",
+          "Options": {
+            "A": "Right to vote",
+            "B": "Right to divorce",
+            "C": "Right to become king",
+            "D": "Right to rule"
+          },
+          "Correct Option": "B",
+          "Solution": "They gained the right to divorce."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What happened to women’s clubs in 1793?",
+          "Options": {
+            "A": "They were banned",
+            "B": "They became more powerful",
+            "C": "They joined the army",
+            "D": "They supported monarchy"
+          },
+          "Correct Option": "A",
+          "Solution": "Women’s clubs were banned in 1793."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which right was denied to women after the Revolution?",
+          "Options": {
+            "A": "Right to education",
+            "B": "Right to vote",
+            "C": "Right to divorce",
+            "D": "Right to work"
+          },
+          "Correct Option": "B",
+          "Solution": "The right to vote was denied."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was a positive outcome for women after the Revolution?",
+          "Options": {
+            "A": "Access to education",
+            "B": "Loss of all rights",
+            "C": "No change",
+            "D": "More taxes"
+          },
+          "Correct Option": "A",
+          "Solution": "They gained access to education."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the banning of clubs mean for women?",
+          "Options": {
+            "A": "More political power",
+            "B": "Suppression of activism",
+            "C": "Full equality",
+            "D": "Support from the government"
+          },
+          "Correct Option": "B",
+          "Solution": "It meant suppression of activism."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "When did women in France finally get the right to vote?",
+          "Options": {
+            "A": "1793",
+            "B": "1946",
+            "C": "1804",
+            "D": "1815"
+          },
+          "Correct Option": "B",
+          "Solution": "Women got the right to vote in 1946."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What does the outcome for women after the Revolution show?",
+          "Options": {
+            "A": "Full equality was achieved",
+            "B": "Equality was incomplete",
+            "C": "Women became rulers",
+            "D": "Women lost all rights"
+          },
+          "Correct Option": "B",
+          "Solution": "Equality was incomplete."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What right did women continue to demand after the Revolution?",
+          "Options": {
+            "A": "Right to vote",
+            "B": "Right to become king",
+            "C": "Right to collect taxes",
+            "D": "Right to abolish laws"
+          },
+          "Correct Option": "A",
+          "Solution": "They continued to demand the right to vote."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What legal right did women gain after the Revolution?",
+          "Solution": "Right to divorce."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "When did French women get the right to vote?",
+          "Solution": "In 1946."
+        }
+      }
+    }
+  },
+  "Concept: The Abolition of Slavery": {
+    "Subconcept: Slavery in French Colonies": {
+      "Summary": {
+        "Theory": "In the 18th century, France had colonies in the Caribbean such as Martinique, Guadeloupe, and San Domingo. These colonies produced sugar, coffee, and indigo using slave labour. Slaves were brought from Africa and forced to work in harsh conditions on plantations. The profits from this trade enriched French merchants and the economy.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.7.1": "Image 1.7.1.1: Illustration of enslaved Africans working on a sugar plantation in a French Caribbean colony. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Which products were produced in French Caribbean colonies using slave labour?",
+          "Solution": "Sugar, coffee, and indigo."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Where were slaves in French colonies brought from?",
+          "Solution": "They were brought from Africa."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which French colonies used slave labour in the 18th century?",
+          "Options": {
+            "A": "India",
+            "B": "Caribbean islands",
+            "C": "Canada",
+            "D": "Australia"
+          },
+          "Correct Option": "B",
+          "Solution": "Caribbean islands like Martinique, Guadeloupe, and San Domingo."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the main source of labour in French Caribbean colonies?",
+          "Options": {
+            "A": "Paid workers",
+            "B": "Slaves",
+            "C": "Robots",
+            "D": "Nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "Slaves were the main source of labour."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "From where were slaves brought to French colonies?",
+          "Options": {
+            "A": "Asia",
+            "B": "Europe",
+            "C": "Africa",
+            "D": "America"
+          },
+          "Correct Option": "C",
+          "Solution": "Slaves were brought from Africa."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which products were exported from French colonies using slave labour?",
+          "Options": {
+            "A": "Sugar and coffee",
+            "B": "Gold and silver",
+            "C": "Cotton and wool",
+            "D": "Rice and wheat"
+          },
+          "Correct Option": "A",
+          "Solution": "Sugar and coffee were exported."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did slavery benefit the French economy?",
+          "Options": {
+            "A": "It reduced trade",
+            "B": "It enriched merchants and increased profits",
+            "C": "It led to poverty",
+            "D": "It ended colonialism"
+          },
+          "Correct Option": "B",
+          "Solution": "It enriched merchants and increased profits."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the condition of slaves in French colonies?",
+          "Options": {
+            "A": "They were free citizens",
+            "B": "They worked in harsh conditions",
+            "C": "They were plantation owners",
+            "D": "They were paid high wages"
+          },
+          "Correct Option": "B",
+          "Solution": "They worked in harsh conditions."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which colony was known for its large slave population?",
+          "Options": {
+            "A": "San Domingo",
+            "B": "Paris",
+            "C": "Versailles",
+            "D": "Lyon"
+          },
+          "Correct Option": "A",
+          "Solution": "San Domingo had a large slave population."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What was the main reason for using slaves in the colonies?",
+          "Options": {
+            "A": "To reduce costs and increase profits",
+            "B": "To teach them French",
+            "C": "To spread religion",
+            "D": "To build cities"
+          },
+          "Correct Option": "A",
+          "Solution": "To reduce costs and increase profits."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Where did slaves in French colonies come from?",
+          "Solution": "They were brought from Africa."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name one product produced by slaves in French colonies.",
+          "Solution": "Sugar."
+        }
+      }
+    },
+    "Subconcept: Arguments for and Against Slavery": {
+      "Summary": {
+        "Theory": "Some French merchants and plantation owners argued that slavery was necessary for the economy and prosperity of the colonies. Others, inspired by revolutionary ideals of liberty and equality, argued that slavery was unjust and inhuman. The debate over slavery became intense during the Revolution.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.7.2": "Image 1.7.2.1: Illustration of a debate in the National Assembly, with some members supporting and others opposing slavery. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Why did some people support slavery in the colonies?",
+          "Solution": "They believed it was necessary for economic prosperity."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What was the main argument against slavery?",
+          "Solution": "It was unjust and violated the ideals of liberty and equality."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did supporters of slavery argue?",
+          "Options": {
+            "A": "It was necessary for the economy",
+            "B": "It was against equality",
+            "C": "It was illegal",
+            "D": "It was unpopular"
+          },
+          "Correct Option": "A",
+          "Solution": "They argued it was necessary for the economy."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did opponents of slavery believe?",
+          "Options": {
+            "A": "It was just",
+            "B": "It was necessary",
+            "C": "It was unjust and inhuman",
+            "D": "It was profitable"
+          },
+          "Correct Option": "C",
+          "Solution": "They believed it was unjust and inhuman."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Which revolutionary ideals were used to argue against slavery?",
+          "Options": {
+            "A": "Liberty and equality",
+            "B": "Monarchy and privilege",
+            "C": "Tradition and religion",
+            "D": "Wealth and power"
+          },
+          "Correct Option": "A",
+          "Solution": "Liberty and equality were used to argue against slavery."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who benefited most from slavery in the colonies?",
+          "Options": {
+            "A": "Slaves",
+            "B": "French merchants and plantation owners",
+            "C": "Revolutionaries",
+            "D": "Peasants"
+          },
+          "Correct Option": "B",
+          "Solution": "French merchants and plantation owners benefited most."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was a moral argument against slavery?",
+          "Options": {
+            "A": "It was profitable",
+            "B": "It was necessary for trade",
+            "C": "It was inhuman and violated human rights",
+            "D": "It was traditional"
+          },
+          "Correct Option": "C",
+          "Solution": "It was inhuman and violated human rights."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the Declaration of the Rights of Man and Citizen say about slavery?",
+          "Options": {
+            "A": "Supported slavery",
+            "B": "Ignored slavery",
+            "C": "Proclaimed liberty and equality for all men",
+            "D": "Allowed slavery in colonies"
+          },
+          "Correct Option": "C",
+          "Solution": "It proclaimed liberty and equality for all men."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why did the debate over slavery intensify during the Revolution?",
+          "Options": {
+            "A": "Because of economic crisis",
+            "B": "Because of revolutionary ideals",
+            "C": "Because of foreign invasion",
+            "D": "Because of new colonies"
+          },
+          "Correct Option": "B",
+          "Solution": "Because of revolutionary ideals."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Who argued that slavery was unjust?",
+          "Options": {
+            "A": "Plantation owners",
+            "B": "Revolutionaries inspired by liberty and equality",
+            "C": "Merchants",
+            "D": "Nobles"
+          },
+          "Correct Option": "B",
+          "Solution": "Revolutionaries inspired by liberty and equality."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the main argument against slavery?",
+          "Solution": "It was unjust and violated liberty and equality."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who benefited from slavery in the colonies?",
+          "Solution": "French merchants and plantation owners."
+        }
+      }
+    },
+    "Subconcept: Abolition of Slavery by the Convention": {
+      "Summary": {
+        "Theory": "In 1794, the revolutionary Convention passed a law to abolish slavery in all French colonies. This was a major step towards equality and justice, influenced by the ideals of the Revolution and the struggles of enslaved people.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.7.3": "Image 1.7.3.1: Illustration of the Convention passing the law to abolish slavery, with delegates voting and freed slaves celebrating. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "When did the Convention abolish slavery in French colonies?",
+          "Solution": "In 1794."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What influenced the Convention to abolish slavery?",
+          "Solution": "Revolutionary ideals and the struggles of enslaved people."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "In which year was slavery abolished in French colonies?",
+          "Options": {
+            "A": "1789",
+            "B": "1794",
+            "C": "1804",
+            "D": "1815"
+          },
+          "Correct Option": "B",
+          "Solution": "Slavery was abolished in 1794."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Who abolished slavery in French colonies?",
+          "Options": {
+            "A": "The king",
+            "B": "The Convention",
+            "C": "The Directory",
+            "D": "The army"
+          },
+          "Correct Option": "B",
+          "Solution": "The Convention abolished slavery."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What influenced the abolition of slavery?",
+          "Options": {
+            "A": "Economic crisis",
+            "B": "Revolutionary ideals and slave resistance",
+            "C": "Foreign invasion",
+            "D": "Royal decree"
+          },
+          "Correct Option": "B",
+          "Solution": "Revolutionary ideals and slave resistance."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the abolition of slavery represent?",
+          "Options": {
+            "A": "A return to monarchy",
+            "B": "A step towards equality and justice",
+            "C": "A new form of slavery",
+            "D": "A loss for the revolution"
+          },
+          "Correct Option": "B",
+          "Solution": "It was a step towards equality and justice."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What role did enslaved people play in the abolition of slavery?",
+          "Options": {
+            "A": "They supported slavery",
+            "B": "They resisted and demanded freedom",
+            "C": "They left the colonies",
+            "D": "They became plantation owners"
+          },
+          "Correct Option": "B",
+          "Solution": "They resisted and demanded freedom."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the impact of the abolition of slavery?",
+          "Options": {
+            "A": "Slaves remained in bondage",
+            "B": "Slaves were freed in French colonies",
+            "C": "Slavery increased",
+            "D": "Colonies were abandoned"
+          },
+          "Correct Option": "B",
+          "Solution": "Slaves were freed in French colonies."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which ideals influenced the abolition of slavery?",
+          "Options": {
+            "A": "Liberty and equality",
+            "B": "Monarchy and privilege",
+            "C": "Tradition and religion",
+            "D": "Wealth and power"
+          },
+          "Correct Option": "A",
+          "Solution": "Liberty and equality influenced the abolition."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the Convention’s law of 1794 do?",
+          "Options": {
+            "A": "Legalized slavery",
+            "B": "Abolished slavery in all French colonies",
+            "C": "Ignored slavery",
+            "D": "Increased slave trade"
+          },
+          "Correct Option": "B",
+          "Solution": "It abolished slavery in all French colonies."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who abolished slavery in French colonies?",
+          "Solution": "The Convention."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the law of 1794 achieve?",
+          "Solution": "It abolished slavery in French colonies."
+        }
+      }
+    },
+    "Subconcept: Reintroduction and Final Abolition of Slavery": {
+      "Summary": {
+        "Theory": "Napoleon reintroduced slavery in French colonies in 1802 to benefit plantation owners. Slavery was finally abolished in 1848, after continued struggles by enslaved people and abolitionists. The final abolition marked the end of legal slavery in French territories.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.7.4": "Image 1.7.4.1: Illustration of a proclamation announcing the final abolition of slavery in 1848, with freed people celebrating. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Who reintroduced slavery in French colonies?",
+          "Solution": "Napoleon Bonaparte in 1802."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "When was slavery finally abolished in French colonies?",
+          "Solution": "In 1848."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Who reintroduced slavery in French colonies?",
+          "Options": {
+            "A": "Robespierre",
+            "B": "Napoleon Bonaparte",
+            "C": "The Convention",
+            "D": "The Directory"
+          },
+          "Correct Option": "B",
+          "Solution": "Napoleon Bonaparte reintroduced slavery."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "In which year was slavery finally abolished in French colonies?",
+          "Options": {
+            "A": "1794",
+            "B": "1802",
+            "C": "1848",
+            "D": "1815"
+          },
+          "Correct Option": "C",
+          "Solution": "Slavery was finally abolished in 1848."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Why did Napoleon reintroduce slavery?",
+          "Options": {
+            "A": "To support abolitionists",
+            "B": "To benefit plantation owners",
+            "C": "To end colonialism",
+            "D": "To help slaves"
+          },
+          "Correct Option": "B",
+          "Solution": "To benefit plantation owners."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What led to the final abolition of slavery?",
+          "Options": {
+            "A": "Continued struggles by enslaved people and abolitionists",
+            "B": "Support from plantation owners",
+            "C": "Economic crisis",
+            "D": "Foreign invasion"
+          },
+          "Correct Option": "A",
+          "Solution": "Continued struggles by enslaved people and abolitionists."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the final abolition of slavery in 1848 signify?",
+          "Options": {
+            "A": "Return to monarchy",
+            "B": "End of legal slavery in French territories",
+            "C": "Start of new plantations",
+            "D": "Increase in slave trade"
+          },
+          "Correct Option": "B",
+          "Solution": "It signified the end of legal slavery in French territories."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Who played a key role in the final abolition of slavery?",
+          "Options": {
+            "A": "Plantation owners",
+            "B": "Enslaved people and abolitionists",
+            "C": "Napoleon",
+            "D": "The king"
+          },
+          "Correct Option": "B",
+          "Solution": "Enslaved people and abolitionists played a key role."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What happened to slavery after 1802?",
+          "Options": {
+            "A": "It was abolished forever",
+            "B": "It was reintroduced by Napoleon",
+            "C": "It was ignored",
+            "D": "It was expanded to Europe"
+          },
+          "Correct Option": "B",
+          "Solution": "It was reintroduced by Napoleon."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "When did France finally end legal slavery in its colonies?",
+          "Options": {
+            "A": "1794",
+            "B": "1802",
+            "C": "1848",
+            "D": "1815"
+          },
+          "Correct Option": "C",
+          "Solution": "In 1848."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Who reintroduced slavery in 1802?",
+          "Solution": "Napoleon Bonaparte."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "When was slavery finally abolished in French colonies?",
+          "Solution": "In 1848."
+        }
+      }
+    }
+  },
+  "Concept: The Revolution and Everyday Life": {
+    "Subconcept: Changes in Laws and Everyday Practices": {
+      "Summary": {
+        "Theory": "The French Revolution brought significant changes to laws and daily life. Laws were passed to ensure equality before the law, abolish privileges, and introduce new systems of weights and measures. Titles were abolished, and people were addressed as ‘citizen’ and ‘citizeness’. The metric system was introduced, and new laws promoted secularism and equality.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.8.1": "Image 1.8.1.1: Illustration of a revolutionary court, with people addressed as 'citizen', and a shopkeeper using metric weights. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What new form of address replaced ‘Monsieur’ and ‘Madame’?",
+          "Solution": "‘Citizen’ and ‘citizeness’."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What system of measurement was introduced?",
+          "Solution": "The metric system."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What title replaced ‘Monsieur’ and ‘Madame’ after the Revolution?",
+          "Options": {
+            "A": "Sir and Lady",
+            "B": "Citizen and citizeness",
+            "C": "Lord and Lady",
+            "D": "Master and Mistress"
+          },
+          "Correct Option": "B",
+          "Solution": "Citizen and citizeness replaced the old titles."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which system of measurement was introduced?",
+          "Options": {
+            "A": "Imperial",
+            "B": "Metric",
+            "C": "Customary",
+            "D": "Ancient Roman"
+          },
+          "Correct Option": "B",
+          "Solution": "The metric system was introduced."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did new laws ensure after the Revolution?",
+          "Options": {
+            "A": "Privileges for nobles",
+            "B": "Equality before the law",
+            "C": "More taxes",
+            "D": "Return of monarchy"
+          },
+          "Correct Option": "B",
+          "Solution": "Laws ensured equality before the law."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was abolished in daily life?",
+          "Options": {
+            "A": "Use of bread",
+            "B": "Noble titles",
+            "C": "Shops",
+            "D": "Markets"
+          },
+          "Correct Option": "B",
+          "Solution": "Noble titles were abolished."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the Revolution promote secularism?",
+          "Options": {
+            "A": "By supporting the church",
+            "B": "By closing churches and removing religious influence from laws",
+            "C": "By building more churches",
+            "D": "By making religion compulsory"
+          },
+          "Correct Option": "B",
+          "Solution": "Churches were closed and religious influence was reduced."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the effect of new laws on privileges?",
+          "Options": {
+            "A": "Privileges increased",
+            "B": "Privileges were abolished",
+            "C": "Privileges were unchanged",
+            "D": "Privileges were given to all"
+          },
+          "Correct Option": "B",
+          "Solution": "Privileges were abolished."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the impact of the metric system?",
+          "Options": {
+            "A": "Confusion in trade",
+            "B": "Standardization of weights and measures",
+            "C": "Return to old systems",
+            "D": "No effect"
+          },
+          "Correct Option": "B",
+          "Solution": "It standardized weights and measures."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did people call each other after the Revolution?",
+          "Options": {
+            "A": "Sir and Madam",
+            "B": "Citizen and citizeness",
+            "C": "Lord and Lady",
+            "D": "Master and Mistress"
+          },
+          "Correct Option": "B",
+          "Solution": "They called each other citizen and citizeness."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What system of measurement was introduced?",
+          "Solution": "The metric system."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What title was used for all after the Revolution?",
+          "Solution": "Citizen or citizeness."
+        }
+      }
+    },
+    "Subconcept: Political Symbols and Their Meanings": {
+      "Summary": {
+        "Theory": "The Revolution introduced new political symbols to represent liberty, equality, and fraternity. The red Phrygian cap, tricolour flag, broken chain, and the winged woman symbolized freedom and the new values of the Republic. These symbols were used in art, official documents, and public ceremonies.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.8.2": "Image 1.8.2.1: Illustration of key revolutionary symbols: the red Phrygian cap, tricolour flag, broken chain, and winged woman. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What did the red Phrygian cap symbolize?",
+          "Solution": "Liberty and freedom."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "What did the tricolour flag represent?",
+          "Solution": "The unity of the nation and revolutionary values."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the red Phrygian cap symbolize?",
+          "Options": {
+            "A": "Royalty",
+            "B": "Liberty",
+            "C": "Wealth",
+            "D": "Religion"
+          },
+          "Correct Option": "B",
+          "Solution": "It symbolized liberty."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the tricolour flag represent?",
+          "Options": {
+            "A": "Monarchy",
+            "B": "Unity and revolutionary values",
+            "C": "Foreign rule",
+            "D": "Nobility"
+          },
+          "Correct Option": "B",
+          "Solution": "It represented unity and revolutionary values."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the broken chain symbolize?",
+          "Options": {
+            "A": "Slavery",
+            "B": "Freedom from oppression",
+            "C": "Royal power",
+            "D": "Religious authority"
+          },
+          "Correct Option": "B",
+          "Solution": "It symbolized freedom from oppression."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the winged woman represent?",
+          "Options": {
+            "A": "Justice",
+            "B": "Liberty",
+            "C": "Monarchy",
+            "D": "Religion"
+          },
+          "Correct Option": "B",
+          "Solution": "The winged woman represented liberty."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How were political symbols used during the Revolution?",
+          "Options": {
+            "A": "In art, documents, and ceremonies",
+            "B": "Only in private",
+            "C": "Only by nobles",
+            "D": "Not used at all"
+          },
+          "Correct Option": "A",
+          "Solution": "They were used in art, documents, and ceremonies."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the bundle of rods symbolize?",
+          "Options": {
+            "A": "Unity and strength",
+            "B": "Weakness",
+            "C": "Royalty",
+            "D": "Religion"
+          },
+          "Correct Option": "A",
+          "Solution": "It symbolized unity and strength."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why were new symbols important for the Revolution?",
+          "Options": {
+            "A": "To promote royal power",
+            "B": "To express new values and ideas",
+            "C": "To support foreign rule",
+            "D": "To maintain old traditions"
+          },
+          "Correct Option": "B",
+          "Solution": "They expressed new values and ideas."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which symbol represented the law?",
+          "Options": {
+            "A": "The eye within a triangle",
+            "B": "The broken chain",
+            "C": "The tricolour flag",
+            "D": "The red cap"
+          },
+          "Correct Option": "A",
+          "Solution": "The eye within a triangle represented the law."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the broken chain symbolize?",
+          "Solution": "Freedom from oppression."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name one political symbol of the Revolution.",
+          "Solution": "Red Phrygian cap."
+        }
+      }
+    },
+    "Subconcept: The Revolutionary Calendar": {
+      "Summary": {
+        "Theory": "The revolutionary government introduced a new calendar to break away from old traditions. The year was divided into 12 months of 30 days each, with new names based on nature and agriculture. Sundays and religious festivals were replaced by revolutionary festivals. This calendar was used for about 12 years.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.8.3": "Image 1.8.3.1: Illustration of the revolutionary calendar, showing months with new names and symbols. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What was unique about the revolutionary calendar?",
+          "Solution": "Months were named after natural elements and agricultural cycles."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "How long was the revolutionary calendar used?",
+          "Solution": "For about 12 years."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Why was a new calendar introduced?",
+          "Options": {
+            "A": "To honour the king",
+            "B": "To break from old traditions",
+            "C": "To follow Roman customs",
+            "D": "To increase holidays"
+          },
+          "Correct Option": "B",
+          "Solution": "To break from old traditions."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "How many months did the revolutionary calendar have?",
+          "Options": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "6"
+          },
+          "Correct Option": "B",
+          "Solution": "It had 12 months."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What replaced Sundays and religious festivals?",
+          "Options": {
+            "A": "Royal festivals",
+            "B": "Revolutionary festivals",
+            "C": "No holidays",
+            "D": "Foreign festivals"
+          },
+          "Correct Option": "B",
+          "Solution": "Revolutionary festivals replaced religious ones."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What were the months named after?",
+          "Options": {
+            "A": "Kings",
+            "B": "Natural elements and agriculture",
+            "C": "Saints",
+            "D": "Foreign rulers"
+          },
+          "Correct Option": "B",
+          "Solution": "Months were named after natural elements and agriculture."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How long did the revolutionary calendar last?",
+          "Options": {
+            "A": "2 years",
+            "B": "12 years",
+            "C": "50 years",
+            "D": "1 year"
+          },
+          "Correct Option": "B",
+          "Solution": "It lasted about 12 years."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the purpose of the new calendar?",
+          "Options": {
+            "A": "To increase religious influence",
+            "B": "To promote revolutionary values",
+            "C": "To honour foreign rulers",
+            "D": "To reduce work"
+          },
+          "Correct Option": "B",
+          "Solution": "To promote revolutionary values."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the new calendar symbolize?",
+          "Options": {
+            "A": "Return to monarchy",
+            "B": "Break from the past and religious authority",
+            "C": "Support for the church",
+            "D": "Foreign influence"
+          },
+          "Correct Option": "B",
+          "Solution": "It symbolized a break from the past and religious authority."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What replaced religious holidays in the new calendar?",
+          "Options": {
+            "A": "Revolutionary festivals",
+            "B": "Royal birthdays",
+            "C": "Foreign holidays",
+            "D": "No holidays"
+          },
+          "Correct Option": "A",
+          "Solution": "Revolutionary festivals replaced religious holidays."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why was the revolutionary calendar introduced?",
+          "Solution": "To break from old traditions and promote new values."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How long was the revolutionary calendar used?",
+          "Solution": "About 12 years."
+        }
+      }
+    },
+    "Subconcept: Censorship and the Press": {
+      "Summary": {
+        "Theory": "The Revolution abolished censorship, allowing freedom of the press. Newspapers, pamphlets, and political songs spread revolutionary ideas and debates. This freedom encouraged political participation and awareness among citizens.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.8.4": "Image 1.8.4.1: Illustration of a revolutionary newspaper being read aloud in a public square. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What happened to censorship during the Revolution?",
+          "Solution": "It was abolished, allowing free press."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "How did newspapers help the Revolution?",
+          "Solution": "They spread ideas and encouraged debate."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What happened to censorship during the Revolution?",
+          "Options": {
+            "A": "It increased",
+            "B": "It was abolished",
+            "C": "It was unchanged",
+            "D": "It was made stricter"
+          },
+          "Correct Option": "B",
+          "Solution": "Censorship was abolished."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the abolition of censorship allow?",
+          "Options": {
+            "A": "More taxes",
+            "B": "Freedom of the press",
+            "C": "Royal decrees",
+            "D": "No newspapers"
+          },
+          "Correct Option": "B",
+          "Solution": "It allowed freedom of the press."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "How did newspapers contribute to the Revolution?",
+          "Options": {
+            "A": "By spreading revolutionary ideas",
+            "B": "By supporting monarchy",
+            "C": "By banning debates",
+            "D": "By increasing censorship"
+          },
+          "Correct Option": "A",
+          "Solution": "They spread revolutionary ideas."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What other forms of media spread revolutionary ideas?",
+          "Options": {
+            "A": "Pamphlets and songs",
+            "B": "Royal decrees",
+            "C": "Religious sermons",
+            "D": "Foreign broadcasts"
+          },
+          "Correct Option": "A",
+          "Solution": "Pamphlets and songs spread ideas."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the effect of press freedom on citizens?",
+          "Options": {
+            "A": "Less political awareness",
+            "B": "More political participation and debate",
+            "C": "No change",
+            "D": "Support for monarchy"
+          },
+          "Correct Option": "B",
+          "Solution": "It led to more political participation and debate."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What role did political songs play?",
+          "Options": {
+            "A": "No role",
+            "B": "Spread revolutionary ideas",
+            "C": "Supported the king",
+            "D": "Banned debates"
+          },
+          "Correct Option": "B",
+          "Solution": "They spread revolutionary ideas."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Why was the abolition of censorship important?",
+          "Options": {
+            "A": "It allowed open discussion and criticism",
+            "B": "It increased royal power",
+            "C": "It reduced literacy",
+            "D": "It banned newspapers"
+          },
+          "Correct Option": "A",
+          "Solution": "It allowed open discussion and criticism."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did people do with newspapers in public squares?",
+          "Options": {
+            "A": "Burned them",
+            "B": "Read them aloud and discussed",
+            "C": "Ignored them",
+            "D": "Sent them abroad"
+          },
+          "Correct Option": "B",
+          "Solution": "They read them aloud and discussed."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the effect of abolishing censorship?",
+          "Solution": "It allowed freedom of the press."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name one way revolutionary ideas spread.",
+          "Solution": "Through newspapers."
+        }
+      }
+    }
+  },
+  "Concept: Conclusion and Legacy": {
+    "Subconcept: Impact of the Revolution on France and the World": {
+      "Summary": {
+        "Theory": "The French Revolution ended monarchy and feudal privileges in France. It established equality before law, promoted secularism, and inspired reforms in education and society. The Revolution’s ideas of liberty, equality, and fraternity influenced movements for democracy and independence worldwide.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.9.1": "Image 1.9.1.1: Illustration of the spread of revolutionary ideas from France to other countries, with symbols of liberty and equality. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "What did the Revolution abolish in France?",
+          "Solution": "Monarchy and feudal privileges."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "Which ideals influenced the world?",
+          "Solution": "Liberty, equality, and fraternity."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the Revolution abolish in France?",
+          "Options": {
+            "A": "Monarchy and feudal privileges",
+            "B": "Education",
+            "C": "Trade",
+            "D": "Markets"
+          },
+          "Correct Option": "A",
+          "Solution": "Monarchy and feudal privileges were abolished."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which ideals did the Revolution promote?",
+          "Options": {
+            "A": "Royalty and privilege",
+            "B": "Liberty, equality, and fraternity",
+            "C": "Foreign rule",
+            "D": "Religious authority"
+          },
+          "Correct Option": "B",
+          "Solution": "Liberty, equality, and fraternity."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the impact of the Revolution on law?",
+          "Options": {
+            "A": "Inequality before law",
+            "B": "Equality before law",
+            "C": "No change",
+            "D": "More privileges"
+          },
+          "Correct Option": "B",
+          "Solution": "It established equality before law."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "How did the Revolution influence the world?",
+          "Options": {
+            "A": "Inspired movements for democracy",
+            "B": "Supported monarchy",
+            "C": "Promoted feudalism",
+            "D": "Reduced education"
+          },
+          "Correct Option": "A",
+          "Solution": "It inspired movements for democracy."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What reforms did the Revolution promote?",
+          "Options": {
+            "A": "Reforms in education and society",
+            "B": "Return to monarchy",
+            "C": "More privileges for nobles",
+            "D": "Religious rule"
+          },
+          "Correct Option": "A",
+          "Solution": "Reforms in education and society."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What was the effect of the Revolution on secularism?",
+          "Options": {
+            "A": "Promoted secularism",
+            "B": "Increased church power",
+            "C": "No effect",
+            "D": "Banned secularism"
+          },
+          "Correct Option": "A",
+          "Solution": "It promoted secularism."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which countries were influenced by the French Revolution?",
+          "Options": {
+            "A": "Only France",
+            "B": "Countries in Europe and Latin America",
+            "C": "Only England",
+            "D": "Only Asia"
+          },
+          "Correct Option": "B",
+          "Solution": "Countries in Europe and Latin America were influenced."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the Revolution inspire worldwide?",
+          "Options": {
+            "A": "Movements for democracy and independence",
+            "B": "More monarchies",
+            "C": "Feudalism",
+            "D": "Religious wars"
+          },
+          "Correct Option": "A",
+          "Solution": "It inspired movements for democracy and independence."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name one reform promoted by the Revolution.",
+          "Solution": "Equality before law."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Which ideals spread worldwide after the Revolution?",
+          "Solution": "Liberty, equality, and fraternity."
+        }
+      }
+    },
+    "Subconcept: Spread of Revolutionary Ideas": {
+      "Summary": {
+        "Theory": "The ideas of the French Revolution—liberty, equality, and fraternity—spread to other parts of Europe and the world. They inspired people to fight for their rights, challenge monarchies, and demand democratic governments. The Revolution became a symbol of hope and change.",
+        "VisualContent": {
+          "Needed": true,
+          "Content": {
+            "THEORY_1.9.2": "Image 1.9.2.1: Illustration of people in different countries raising banners of liberty and equality, inspired by the French Revolution. Source: NCERT Reference, relevant illustration."
+          }
+        }
+      },
+      "Examples": {
+        "Example 1": {
+          "isSolvedExample": false,
+          "Question": "Which ideas spread from France to the world?",
+          "Solution": "Liberty, equality, and fraternity."
+        },
+        "Example 2": {
+          "isSolvedExample": false,
+          "Question": "How did the Revolution inspire others?",
+          "Solution": "It encouraged people to fight for rights and democracy."
+        }
+      },
+      "SCQs": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "Which ideals spread from the French Revolution?",
+          "Options": {
+            "A": "Royalty and privilege",
+            "B": "Liberty, equality, and fraternity",
+            "C": "Feudalism",
+            "D": "Religious authority"
+          },
+          "Correct Option": "B",
+          "Solution": "Liberty, equality, and fraternity."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the Revolution inspire people to do?",
+          "Options": {
+            "A": "Support monarchy",
+            "B": "Fight for rights and democracy",
+            "C": "Return to feudalism",
+            "D": "Ban education"
+          },
+          "Correct Option": "B",
+          "Solution": "It inspired people to fight for rights and democracy."
+        },
+        "Question 3": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "Where did revolutionary ideas spread?",
+          "Options": {
+            "A": "Only France",
+            "B": "Europe and Latin America",
+            "C": "Only Asia",
+            "D": "Only Africa"
+          },
+          "Correct Option": "B",
+          "Solution": "Europe and Latin America."
+        },
+        "Question 4": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did the Revolution become a symbol of?",
+          "Options": {
+            "A": "Hope and change",
+            "B": "Monarchy",
+            "C": "Tradition",
+            "D": "Religious rule"
+          },
+          "Correct Option": "A",
+          "Solution": "It became a symbol of hope and change."
+        },
+        "Question 5": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "How did the Revolution affect monarchies in Europe?",
+          "Options": {
+            "A": "Strengthened them",
+            "B": "Challenged and weakened them",
+            "C": "No effect",
+            "D": "Made them more popular"
+          },
+          "Correct Option": "B",
+          "Solution": "It challenged and weakened monarchies."
+        },
+        "Question 6": {
+          "isBackExercise": false,
+          "Difficulty": "Medium",
+          "Question": "What did people demand after being inspired by the Revolution?",
+          "Options": {
+            "A": "More taxes",
+            "B": "Democratic governments",
+            "C": "Return to monarchy",
+            "D": "Religious rule"
+          },
+          "Correct Option": "B",
+          "Solution": "They demanded democratic governments."
+        },
+        "Question 7": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What was the global legacy of the French Revolution?",
+          "Options": {
+            "A": "Spread of monarchy",
+            "B": "Spread of revolutionary and democratic ideas",
+            "C": "Decline of education",
+            "D": "Increase in feudalism"
+          },
+          "Correct Option": "B",
+          "Solution": "Spread of revolutionary and democratic ideas."
+        },
+        "Question 8": {
+          "isBackExercise": false,
+          "Difficulty": "Easy",
+          "Question": "What did the Revolution symbolize for oppressed people?",
+          "Options": {
+            "A": "Despair",
+            "B": "Hope and change",
+            "C": "Tradition",
+            "D": "Royalty"
+          },
+          "Correct Option": "B",
+          "Solution": "It symbolized hope and change."
+        }
+      },
+      "SubjectiveTypes": {
+        "Question 1": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "What did the Revolution inspire worldwide?",
+          "Solution": "Movements for democracy and rights."
+        },
+        "Question 2": {
+          "isBackExercise": false,
+          "Difficulty": "Hard",
+          "Question": "Name one region influenced by the Revolution.",
+          "Solution": "Latin America."
+        }
+      }
+    }
+  }
+}
