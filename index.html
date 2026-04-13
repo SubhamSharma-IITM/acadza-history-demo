@@ -622,7 +622,6 @@ const app = {
     }
     return h;
   },
-};
 
   toggleMode() {
     currentMode = currentMode === 'ncert' ? 'competitive' : 'ncert';
@@ -647,28 +646,44 @@ const app = {
     let h = '<h3 style="color:var(--accent)">Competitive Mode</h3>';
     h += '<p style="font-size:0.7rem;color:var(--text3);padding:0 8px 8px">Foundation content mapped to NCERT</p>';
     if (!COMP_TOPOLOGY.concepts) { sb.innerHTML = h + '<p style="padding:8px;color:var(--text3)">No competitive data loaded</p>'; return; }
-    // Group by concept
+
+    // Build lookup for fast access
+    const mappingLookup = {};
+    COMP_MAPPING.forEach(m => { mappingLookup[m.comp] = m; });
+
     for (const concept of COMP_TOPOLOGY.concepts) {
       const isConn = concept.is_connecting_topic;
-      const badge = isConn ? '<span style="font-size:0.6rem;background:#7E57C2;color:#fff;padding:1px 5px;border-radius:3px;margin-left:4px">EXTRA</span>' : '';
+      const badge = isConn ? ' <span style="font-size:0.6rem;background:#7E57C2;color:#fff;padding:1px 5px;border-radius:3px">EXTRA</span>' : '';
       h += '<div class="sidebar-group">';
-      h += '<div class="sidebar-concept" onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display===\'none\'?\'block\':\'none\'">' + concept.name + badge + '</div>';
-      h += '<div style="display:none">';
+      h += '<div class="sidebar-concept" style="cursor:pointer" data-expand="1">' + concept.name + badge + '</div>';
+      h += '<div class="comp-subs" style="display:none">';
       for (const sub of concept.subconcepts) {
-        const mapping = COMP_MAPPING.find(m => m.comp === sub.id);
-        const status = mapping ? mapping.status : 'unknown';
-        const ncertSub = mapping ? mapping.ncert_sub : null;
+        const m = mappingLookup[sub.id] || {};
+        const status = m.status || 'unknown';
         const statusBadge = status === 'overlap'
           ? '<span style="font-size:0.55rem;background:var(--green-light);color:var(--green);padding:1px 4px;border-radius:3px">NCERT</span>'
           : '<span style="font-size:0.55rem;background:#EDE7F6;color:#5E35B1;padding:1px 4px;border-radius:3px">NEW</span>';
         const connBadge = sub.is_connecting_topic ? ' <span style="font-size:0.55rem;background:#FFF3E8;color:var(--accent);padding:1px 4px;border-radius:3px">ADV</span>' : '';
-        h += '<div class="sidebar-sub" onclick="app.selectCompSub(\''+sub.id+'\',\''+concept.name.replace(/'/g,"\\'")+' — '+sub.name.replace(/'/g,"\\'")+'\''+',\''+(ncertSub||'').replace(/'/g,"\\'")+'\''+',\''+status+'\''+',this)">';
+        h += '<div class="sidebar-sub" data-comp-id="'+sub.id+'" data-label="'+concept.name.replace(/"/g,'&quot;')+' &mdash; '+sub.name.replace(/"/g,'&quot;')+'" data-ncert="'+(m.ncert_sub||'').replace(/"/g,'&quot;')+'" data-status="'+status+'">';
         h += '<span>' + sub.name + connBadge + '</span>' + statusBadge;
         h += '</div>';
       }
       h += '</div></div>';
     }
     sb.innerHTML = h;
+
+    // Bind click events (safer than inline onclick with complex strings)
+    sb.querySelectorAll('[data-expand]').forEach(el => {
+      el.addEventListener('click', () => {
+        const subs = el.nextElementSibling;
+        subs.style.display = subs.style.display === 'none' ? 'block' : 'none';
+      });
+    });
+    sb.querySelectorAll('[data-comp-id]').forEach(el => {
+      el.addEventListener('click', () => {
+        app.selectCompSub(el.dataset.compId, el.dataset.label, el.dataset.ncert, el.dataset.status, el);
+      });
+    });
   },
 
   selectCompSub(compId, label, ncertSub, status, el) {
@@ -733,6 +748,7 @@ const app = {
     document.getElementById('sidebar').classList.remove('mobile-open');
     document.getElementById('mobileOverlay').classList.remove('visible');
   },
+};
 
 document.addEventListener('DOMContentLoaded', () => app.init());
 </script>
